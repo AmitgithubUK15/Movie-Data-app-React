@@ -9,7 +9,99 @@
  background-color: rgba(82, 81, 81, 0.616);
 }
 
-#btn:hover{
+.btn1:hover{
   background-color: gray;
 }
+
+.contenor{
+  display: flex;
+  justify-content: center;
+
+}
+
+.trnedingdiv_wrp{
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  /* border: 1px solid; */
+  width: 100%;
+  padding: 19px 0;
+  height: 557px;
+}
+
+.wrp{
+ width: 95%;
+ /* border: 1px solid; */
+ display:flex;
+ flex-direction: column;
+ align-items: center;
+ height: 555px;
+}
+
+.headingwrp{
+     /* text-align: left; */
+    padding: 10px 71px;
+    align-self: baseline;
+}
+
+.headingwrp h1{
+  margin: 0 0;
+}
+
+.imagediv{
+  width: 100%;
+  /* border: 1px solid; */
+  height: 460px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-between;
+  padding: 10px 0;
+}
+
+.trendmoviewrp{
+  width: 94%;
+  /* border: 1px solid; */
+  height: 440px;
+  transition: .6s ease;
+
+}
+
+.trendmoviewrp ul{
+  height: 440px;
+  transition: .6s ease;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  display: flex;
+  border-radius: 10px;
+  margin: 0;
+  /* box-shadow: 0px 4px 170px 70px #0e0e24; */
+}
+/* .trendmoviewrp ul::-webkit-scrollbar{
+  width: 0px;
+  height: 0px;
+} */
+.trendmoviewrp ul .list{
+  border-radius: 10px;
+  margin: 0 5px;
+  list-style: none;
+}
+.trendmoviewrp ul li img{
+  width: 1393px;
+  height: 440px;
+  border-radius: 10px;
+}
+
+
+.getdatailbtn{
+  padding: 14px 26px;
+  font-size: 26px;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background: white;
+  color: black;
+  font-weight: 500;
+}
+
 

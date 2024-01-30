@@ -1,9 +1,12 @@
 
 
-function Result(){
+function Result({elementid}){
+    
     return(
         <>
-        Result
+         <div>
+            {elementid};
+         </div>
         </>
     )
 }
