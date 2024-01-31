@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Trending from "../components/Trending";
 import './Home.css'
+import { Link } from "react-router-dom";
 
 const Home = ()=>{
   
@@ -42,10 +43,34 @@ const Home = ()=>{
     return (
         <>
          <div className="contenor">
-          <div className="contenor_wraper" style={{width:"1511px"}}>
+          <div className="contenor_wraper" style={{width:"1516px"}}>
         
               <Trending  trendingsid={trending} />
-             
+             <div className="alltypeshowwrp" >
+               <div className="imgdivwrp" style={{backgroundImage: `linear-gradient(to bottom right, rgb(8, 1, 16),rgb(0 4 18 / 68%)),url("./images/lionsgate.jpg")`,
+                      backgroundSize: "cover",
+                      backgroundPosition: "center",
+                      backgroundRepeat: "none",
+                      height:"480px",
+                      display:"flex",
+                      alignItems:"center"
+                      }}>
+                 <section style={{padding:"0 70px"}}>
+                 <div>
+                 <h1 style={{margin:"0"}}>
+                    <span style={{fontSize:"35px"}}>Get Explore All Trending</span><br></br>
+                    <span>Shows & Movies</span>
+                  </h1>
+                 </div>
+                 <div style={{padding:"29px 0"}}>
+                  <Link to={'/explore'}>
+                  <button style={{border:"none",background:"white",color:"black",padding:"13px 28px", fontSize:"20px", borderRadius:"10px", cursor:"pointer"}}>Exlore More</button>
+                  </Link>
+                 </div>
+                  
+                 </section>
+               </div>
+             </div>
           </div>  
          </div>
         </>
