@@ -2,10 +2,13 @@ import { useEffect, useState } from "react";
 import Trending from "../components/Trending";
 import './Home.css'
 import { Link } from "react-router-dom";
+import Explore from "./Explore";
+import NewMoive from "../components/NewMoive";
 
 const Home = ()=>{
   
   const [trending,settrending] = useState();
+  const [newmovie,setnewmovie] = useState();
 
   console.log(trending);
   useEffect(()=>{
@@ -28,6 +31,7 @@ const Home = ()=>{
   
   
         settrending(response[0].movies)
+        setnewmovie(response[1].movies)
         // console.log(response);
       }
      }
@@ -46,8 +50,9 @@ const Home = ()=>{
           <div className="contenor_wraper" style={{width:"1516px"}}>
         
               <Trending  trendingsid={trending} />
+
              <div className="alltypeshowwrp" >
-               <div className="imgdivwrp" style={{backgroundImage: `linear-gradient(to bottom right, rgb(8, 1, 16),rgb(0 4 18 / 68%)),url("./images/lionsgate.jpg")`,
+               <div className="imgdivwrp" style={{backgroundImage: `linear-gradient(to  right, rgb(8, 1, 16),rgb(0 4 18 / 84%)),url("./images/lionsgate.jpg")`,
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                       backgroundRepeat: "none",
@@ -70,6 +75,7 @@ const Home = ()=>{
                   
                  </section>
                </div>
+               <NewMoive newmoviesdata={newmovie}/>
              </div>
           </div>  
          </div>

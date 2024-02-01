@@ -40,7 +40,7 @@ async function handlereq(){
 }
 
   return (
-    <div  style={{backgroundColor:"rgb(29 29 29 / 45%)", display:"flex", justifyContent:"center"}}>
+    <div  style={{backgroundColor:"rgb(29 29 29 / 45%)", display:"flex", justifyContent:"center", position:"sticky",top:"0",  zIndex: "1000", backdropFilter: "blur(10px)"  }}>
       <div className='nav' style={{width:"1019px", display:"flex", justifyContent:"space-between", alignItems:"center",height:"58px", padding:" 0", margin:"0 auto"}}>
 
 

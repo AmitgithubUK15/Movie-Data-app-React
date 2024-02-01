@@ -4,14 +4,17 @@ import { Link } from 'react-router-dom';
 import { MdKeyboardArrowRight } from "react-icons/md";
 import { MdKeyboardArrowLeft } from "react-icons/md";
 
-export default function Trending({ trendingsid, isSpecial}) {
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [btnvisible,setbtnvisible] = useState(false);
 
-    // setTimeout(() => {
-    //   const newIndex = (currentIndex + 1) % trendingsid.length ;
-    //   setCurrentIndex(newIndex);
-    // }, 2000);
+export default function Trending({ trendingsid, isSpecial }) {
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [btnvisible, setbtnvisible] = useState(false);
+
+
+  // setTimeout(() => {
+  //   const newIndex = (currentIndex + 1) % trendingsid.length ;
+  //   setCurrentIndex(newIndex);
+  // }, 2000);
+
 
   function handleRightScroll() {
     const newIndex = (currentIndex + 1) % trendingsid.length;
@@ -19,7 +22,7 @@ export default function Trending({ trendingsid, isSpecial}) {
 
   }
 
-  function leftscroller(){
+  function leftscroller() {
     const newIndex = (currentIndex - 1 + trendingsid.length) % trendingsid.length;
     setCurrentIndex(newIndex);
   }
@@ -27,11 +30,13 @@ export default function Trending({ trendingsid, isSpecial}) {
   function handlebtn() {
     setbtnvisible(true);
   }
-  function hidebtn(){
+  function hidebtn() {
     setbtnvisible(false);
   }
 
 
+
+   
   return (
     <div className='trnedingdiv_wrp'>
       <div className='wrp'>
@@ -48,8 +53,8 @@ export default function Trending({ trendingsid, isSpecial}) {
         </div>
         <div className='imagediv' onMouseOver={handlebtn} onMouseLeave={hidebtn}>
 
-          <div style={{ alignSelf: 'center', width:"24px" }}>
-           {btnvisible && <button onClick={leftscroller} className="leftrihtbtn" style={{ display:"block",padding:"0", margin:"0", background:"transparent", border:"none",cursor:"pointer"  }}>< MdKeyboardArrowLeft style={{fontSize:"28px", padding:"0",margin:"0"}}/></button>}
+          <div style={{ alignSelf: 'center', width: "24px" }}>
+            {btnvisible && <button onClick={leftscroller} className="leftrihtbtn" style={{ display: "block", padding: "0", margin: "0", background: "transparent", border: "none", cursor: "pointer" }}>< MdKeyboardArrowLeft style={{ fontSize: "28px", padding: "0", margin: "0" }} /></button>}
           </div>
 
           <div className='trendmoviewrp'>
@@ -57,29 +62,29 @@ export default function Trending({ trendingsid, isSpecial}) {
               {trendingsid && trendingsid.map((element, index) => (
                 <li
                   key={index}
-                  className={`main ${isSpecial ? 'special' : '' }`}
+                  className={`main ${isSpecial ? 'special' : ''}`}
                   style={{
                     position: "absolute",
                     left: `${(index - currentIndex) * 100}%`,
-                    right:`${(index - currentIndex) * 100}`,
+                    right: `${(index - currentIndex) * 100}`,
                     transition: "left 0.5s ease-in-out",
-                    listStyle:"none"
+                    listStyle: "none"
                   }}
-                  
+
                 >
-                  <Link to="/detail" style={{ textDecoration: "none" }}>
+                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`}>
                     <div style={{
                       width: "1340px",
                       height: "440px",
                       display: "flex",
                       alignItems: "center",
-                      backgroundImage: `linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0)),url(${element.backdrop_path})`,
+                      backgroundImage: `linear-gradient(to right, rgb(2 2 17),rgb(0 0 0 / 60%)),url(${element.backdrop_path})`,
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                       backgroundRepeat: "none",
                       borderRadius: "15px"
                     }}>
-                   <section className='secitons' style={{ padding: "0 70px", fontSize: "68px", width: "500px",  transition:"up 8s ease-in-out"}}>
+                      <section className='secitons' style={{ padding: "0 70px", fontSize: "68px", width: "500px", transition: "up 8s ease-in-out" }}>
                         <h1 style={{ fontSize: "64px", margin: "0", color: "white", display: "inline-block", lineHeight: "68px" }}>
                           <span>{element.original_title}</span>
                         </h1>
@@ -89,13 +94,14 @@ export default function Trending({ trendingsid, isSpecial}) {
                       </section>
                     </div>
                   </Link>
+                
                 </li>
               ))}
             </ul>
           </div>
 
-          <div style={{ alignSelf: 'center', width:"24px" }}>
-           {btnvisible && <button onClick={handleRightScroll} className="leftrihtbtn" style={{display:"block",padding:"0", margin:"0", background:"transparent", border:"none", cursor:"pointer"}}><MdKeyboardArrowRight style={{fontSize:"28px", padding:"0",margin:"0"}} /></button>} 
+          <div style={{ alignSelf: 'center', width: "24px" }}>
+            {btnvisible && <button onClick={handleRightScroll} className="leftrihtbtn" style={{ display: "block", padding: "0", margin: "0", background: "transparent", border: "none", cursor: "pointer" }}><MdKeyboardArrowRight style={{ fontSize: "28px", padding: "0", margin: "0" }} /></button>}
           </div>
         </div>
       </div>

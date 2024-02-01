@@ -1,0 +1,17 @@
+.Detailwrp{
+    width: 100%;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center
+}
+
+.innerwrp{
+    width: 1532px;
+ 
+}
+
+.mainwpr{
+    width: 1537px;
+    height: 657px;
+    margin-left: -5px;
+}
