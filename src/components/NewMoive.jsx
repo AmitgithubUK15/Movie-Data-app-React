@@ -3,13 +3,13 @@ import { useState } from 'react';
 import { MdKeyboardArrowRight } from "react-icons/md";
 import { MdKeyboardArrowLeft } from "react-icons/md";
 import { Link } from 'react-router-dom';
+import './Style.css'
 
-export default function NewMoive({ newmoviesdata }) {
+export default function NewMovie({ newmoviesdata }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [btnvisible, setBtnVisible] = useState(false);
+  const [slideindex, setslideindex] = useState();
 
-  // console.log(newmoviesdata);
-  
   function scrollRight() {
     let newIndex = (currentIndex + 5) % newmoviesdata.length;
     setCurrentIndex(newIndex);
@@ -28,6 +28,15 @@ export default function NewMoive({ newmoviesdata }) {
     setBtnVisible(false);
   }
 
+  function handleMouseEnter(index) {
+    setslideindex(index);
+  }
+
+  function handleMouseLeave() {
+    setslideindex(false);
+  
+  }
+
   return (
     <div className="n_movie_wrp">
       <div className="wrp_child">
@@ -43,16 +52,37 @@ export default function NewMoive({ newmoviesdata }) {
           <div className='n_m_slider'>
             <ul>
               {newmoviesdata && newmoviesdata.map((element, index) => (
-                <li key={index}
+
+                <li
+                  key={index}
+                  onMouseEnter={() => handleMouseEnter(index)}
+                  onMouseLeave={handleMouseLeave}
                   style={{
                     position: "absolute",
                     left: `${(index - currentIndex) * 300}px`,
                     transition: "left 0.5s ease-in-out",
-                    listStyle: "none"
+                    listStyle: "none",
+                    
                   }}
                 >
-                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`}>
-                    <div className='sendingdata' style={{ width: "240px", height: "338px", borderRadius: "10px", backgroundImage: `URL(${element.poster_path})`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}>
+
+
+                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`} style={{textDecoration:"none"}}>
+                  
+                   <img src={`${element.poster_path}`} alt="" className={`movieimages ${slideindex === index ? "blurimg" : ""}`}/>
+                    <div className={`sendingdata ${slideindex === index ? "showwrp": ""}`}>
+                      
+                       <div className='moviedetailwrp' >
+
+                        <h2 style={{margin:"10px 0"}}>
+                          <span style={{color:"white",fontFamily:"sans-serif" }}>{element.original_title}</span>
+                        </h2>
+
+                          <span style={{color:"white",fontSize:"30px"}}>{element.contentType}</span> <br></br>
+                           <span style={{color:"white", fontSize:"20px"}}>{element.genres[0]}</span> <br></br>
+                           <span style={{color:"white", fontSize:"20px"}}>{element.genres[1]}</span><br></br>
+                      </div>
+                    
                     </div>
                   </Link>
                 </li>
@@ -73,6 +103,13 @@ export default function NewMoive({ newmoviesdata }) {
   );
 }
 
-NewMoive.propTypes = {
+NewMovie.propTypes = {
   newmoviesdata: PropTypes.array,
 };
+
+
+
+
+
+
+// style={{overflow:"hidden",  width: "240px", height: "338px", borderRadius: "10px", backgroundImage: `URL(${element.poster_path})`, backgroundSize: "cover", backgroundPosition: "center", backgroundRepeat: "no-repeat" }}

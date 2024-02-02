@@ -84,7 +84,7 @@ export default function Trending({ trendingsid, isSpecial }) {
                       backgroundRepeat: "none",
                       borderRadius: "15px"
                     }}>
-                      <section className='secitons' style={{ padding: "0 70px", fontSize: "68px", width: "500px", transition: "up 8s ease-in-out" }}>
+                      <section className='secitons' style={{ padding: "0 70px", fontSize: "68px", width: "500px", transition: ".8s ease-in-out" }}>
                         <h1 style={{ fontSize: "64px", margin: "0", color: "white", display: "inline-block", lineHeight: "68px" }}>
                           <span>{element.original_title}</span>
                         </h1>
