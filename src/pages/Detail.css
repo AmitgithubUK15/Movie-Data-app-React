@@ -14,4 +14,63 @@
     width: 1537px;
     height: 657px;
     margin-left: -5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.textwrp{
+   width: 90%;
+   height: 600px;
+
+   align-content: center;
+}
+
+.txtinner{
+    width: 50%;
+    height: 500px;
+    margin: 50px 0;
+    display: flex;
+    align-items: end
+}
+
+.contentwpr{
+    width: 100%;
+    height: 373px;
+    text-align: left;
+}
+
+.overview div::-webkit-scrollbar{
+    width: 0;
+}
+
+.release{
+    padding: 10px 0;
+}
+
+
+
+/* backdrop_path
+: 
+"https://image.tmdb.org/t/p/original/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg"
+contentType
+: 
+"movie"
+genres
+: 
+(3) ['Action & Adventure', 'Comedy', 'Romance']
+original_title
+: 
+"Ghosted"
+overview
+: 
+"Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world."
+poster_path
+: 
+"https://image.tmdb.org/t/p/original/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
+release_date
+: 
+"2023-04-18"
+title
+: 
+"Ghosted" */

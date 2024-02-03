@@ -13,11 +13,15 @@ export default function NewMovie({ newmoviesdata }) {
   function scrollRight() {
     let newIndex = (currentIndex + 5) % newmoviesdata.length;
     setCurrentIndex(newIndex);
+    // console.log("hello")
   }
 
   function scrollLeft() {
-    console.log("scrollLeft");
-    // Implement your scrollLeft logic here if needed
+    let newIndex = currentIndex - 5;
+    if (newIndex < 0) {
+      newIndex = newmoviesdata.length + newIndex;
+    }
+    setCurrentIndex(newIndex);
   }
 
   function showBtn() {
@@ -41,10 +45,11 @@ export default function NewMovie({ newmoviesdata }) {
     <div className="n_movie_wrp">
       <div className="wrp_child">
         <div className="listwrp" onMouseOver={showBtn} onMouseLeave={hideBtn}>
+
           {btnvisible && 
-            <div className='leftbtn'>
-              <button className='n_m_btn' style={{ display: "block" }} onClick={scrollLeft}>
-                <MdKeyboardArrowLeft className='arrow_icon' />
+            <div className='leftbtn12'>
+              <button  onClick={scrollLeft} className="n_m_btn" style={{ display: "block" }} >
+                <MdKeyboardArrowLeft className='arrow_icon1' />
               </button>
             </div>
           }
@@ -60,6 +65,7 @@ export default function NewMovie({ newmoviesdata }) {
                   style={{
                     position: "absolute",
                     left: `${(index - currentIndex) * 300}px`,
+                    right:`${(index - currentIndex) *300}px`,
                     transition: "left 0.5s ease-in-out",
                     listStyle: "none",
                     
@@ -67,7 +73,7 @@ export default function NewMovie({ newmoviesdata }) {
                 >
 
 
-                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`} style={{textDecoration:"none"}}>
+                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.genres}/${encodeURIComponent(element.contentType)}/${encodeURIComponent(element.overview)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`} style={{textDecoration:"none"}}>
                   
                    <img src={`${element.poster_path}`} alt="" className={`movieimages ${slideindex === index ? "blurimg" : ""}`}/>
                     <div className={`sendingdata ${slideindex === index ? "showwrp": ""}`}>

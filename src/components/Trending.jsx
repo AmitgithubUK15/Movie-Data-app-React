@@ -72,7 +72,7 @@ export default function Trending({ trendingsid, isSpecial }) {
                   }}
 
                 >
-                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`}>
+                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.genres}/${encodeURIComponent(element.contentType)}/${encodeURIComponent(element.overview)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`}>
                     <div style={{
                       width: "1340px",
                       height: "440px",

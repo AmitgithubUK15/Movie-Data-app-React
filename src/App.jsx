@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/data' element={<Result />} />
-        <Route path='/detail/:movieId/:title/:image' element={<Detail />} />
+        <Route path='/detail/:movieId/:title/:Genres/:type/:overview/:image' element={<Detail />} />
         <Route path='explore' element={<Explore />} />
       </Routes>
     </BrowserRouter>

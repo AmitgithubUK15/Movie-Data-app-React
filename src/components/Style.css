@@ -34,6 +34,7 @@
    /* overflow-x: scroll; */
   }
   
+  
   .listwrp ul li{
     list-style: none;
     width: 100%;
@@ -43,10 +44,10 @@
     overflow: hidden;
    }
   
-   .leftbtn{
+   .leftbtn12{
     position: absolute;
     left: 0px;
-  
+    z-index: 900;
    }
   
    .rigthbtn2{
@@ -64,7 +65,6 @@
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
     cursor: pointer;
-    
    }
   
    .n_m_btn2{
@@ -79,7 +79,7 @@
     
    }
   
-    .arrow_icon{
+    .arrow_icon1{
     font-size: 30px;
     margin: 39px 0;
    }
@@ -90,7 +90,7 @@
   
    .n_m_slider{
     width: 1510px;
-    overflow-x: scroll;
+    /* overflow-x: scroll; */
     height: 400px;
    }
   
@@ -99,17 +99,17 @@
   }
 
   .sendingdata{
-    width: 249px;
+    width: 240px;
     background: #0d0d0d8c;
     height: 0;
     position: relative;
-    left: -5px;
-    bottom: 5px;
+    left: 0px;
+    bottom: 8px;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
     transition: all .5s ease;
-    border-radius: 10px;
-    
+    border-radius: 15px;
+    overflow: hidden;
   }
 
   .movieimages{
@@ -132,7 +132,7 @@
   }
 
   .sendingdata.showwrp{
-    bottom: 255px;
+    bottom: 250px;
     height: 246px;
   }
   
