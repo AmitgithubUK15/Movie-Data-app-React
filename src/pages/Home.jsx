@@ -2,15 +2,14 @@ import { useEffect, useState } from "react";
 import Trending from "../components/Trending";
 import './Home.css'
 import { Link } from "react-router-dom";
-import Explore from "./Explore";
 import NewMoive from "../components/NewMoive";
 
 const Home = ()=>{
   
   const [trending,settrending] = useState();
   const [newmovie,setnewmovie] = useState();
-
-  console.log(trending);
+  
+  console.log();
   useEffect(()=>{
 
     async function handlemain(){
@@ -68,7 +67,7 @@ const Home = ()=>{
                   </h1>
                  </div>
                  <div style={{padding:"29px 0"}}>
-                  <Link to={'/explore'}>
+                  <Link to={`/explore`}>
                   <button style={{border:"none",background:"white",color:"black",padding:"13px 28px", fontSize:"20px", borderRadius:"10px", cursor:"pointer"}}>Exlore More</button>
                   </Link>
                  </div>

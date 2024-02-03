@@ -1,0 +1,78 @@
+.explorediv{
+    width: 100%;
+    height: auto;
+}
+
+.exp_wrp{
+  width:1378px;
+  margin: 0 auto;
+  /* border: 1px solid; */
+  
+}
+
+.heading{
+    text-align: left;
+    padding: 0 33px;
+}
+
+.filtersec{
+    width: 100%;
+    /* border: 1px solid; */
+    padding: 0 0;
+}
+
+.filterwrp{
+ display: flex;
+ padding: 10px 10px;
+}
+
+ .selection {
+    width: 176px;
+    height: 54px;
+    font-size: 16px;
+    padding: 0   16px;
+    border: none;
+    background: rgb(58, 58, 58);
+    border-radius: 7px;
+    outline: none;
+   }
+
+   .selection2 {
+    width: 176px;
+    height: 54px;
+    font-size: 16px;
+    padding: 0 16px;
+    border: none;
+    background: rgb(58, 58, 58);
+    border-radius: 7px;
+    outline: none;
+   }
+
+
+   .movies_wrper{
+    width: 100%;
+    padding: 20px 0;
+   }
+
+   .movies_inner_wrp{
+    width: 100%;
+    /* border: 1px solid; */
+    margin: 0 auto;
+    /* display: inline-flex; */
+    /* justify-content: space-between; */
+   }
+
+
+.moviews_image_wrp{
+    display: inline-block;
+    width: 225px;
+    height: 312px;
+    margin: 25px 23px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+   .moviews_image{
+    width: 225px;
+    height: 313px;
+    border-radius: 10px;
+   }
