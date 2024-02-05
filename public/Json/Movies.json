@@ -1,0 +1,289 @@
+[
+    {"title":"Trending Movies",
+    "movies":[
+
+        {
+        "_id":501,
+          "original_title":"Black Panther Wakanda Forever",
+          "genres":["Action","Adventure","Drama"],
+          "contentType":"Movie",
+          "overview":"Queen Ramonda, Shuri, M’Baku, Okoye and the mighty Dora Milaje fight to protect their nation from intervening world powers after the death of beloved King T’Challa. Banding together with War Dog Nakia and Everett Ross, the heroes strive to forge a new path.",
+          "backdrop_path":"/Backdrop_images/TrendingMovies/wakanda.webp",
+          "poster_path":"/Poster_path/TrendingMovies/91PqA8ha37L._AC_UY327_FMwebp_QL65_.webp",
+          "video":"",
+          "release":2022
+        },
+
+        {
+        "_id":502,
+        "original_title":"Black Widow",
+        "genres":["Sci-Fic","Action"],
+        "contentType":"Movie",
+        "overview":"Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/blackwidow.webp",
+        "poster_path":"/Poster_path/TrendingMovies/blackwidow.webp",
+        "video":"",
+        "release":2021
+      },
+
+      {
+        "_id":503,
+        "original_title":"Indiana Jones and the Dial of Destiny",
+        "genres":[],
+        "contentType":"Movie",
+        "overview":"Harrison Ford returns to the role of the legendary hero archaeologist, Indiana Jones, for this highly anticipated final installment of the iconic franchise – a big, globe-trotting, rip-roaring adventure!",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/indiana_jones2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/indiana_jones.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":504,
+        "original_title":"The Creator",
+        "genres":["Action","Adventure","Drama","Sci-Fic"],
+        "contentType":"Movie",
+        "overview":"Amidst a future war between humans and AI, an ex-special forces agent (John David Washington) grieving the disappearance of his wife (Gemma Chan) is recruited to kill an AI architect who has developed a mysterious weapon that could end humankind, in this epic sci-fi action thriller.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/thecreator.webp",
+        "poster_path":"/Poster_path/TrendingMovies/thecreator.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":505,
+        "original_title":"The Boogeyman",
+        "genres":["Horror","Suspense"],
+        "contentType":"Movie",
+        "overview":"In this horror-thriller from the mind of Stephen King, two sisters — along with their therapist father — are reeling from their mother’s death. When a desperate patient comes to their home, he leaves behind a terrifying entity that feeds on its victims’ suffering. Warning: Some flashing-lights scenes in this film may affect photosensitive viewers",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/bookyman.webp",
+        "poster_path":"/Poster_path/TrendingMovies/theboogymen.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":506,
+        "original_title":"Guardians of the Galaxy",
+        "genres":["Action","Adventure","Comedy","Sci-Fic"],
+        "contentType":"Movie",
+        "overview":"In Marvel Studios’ Guardians of the Galaxy Vol. 3, the MCU expands to the far reaches of the galaxy. Peter Quill rallies his unlikely team to embark on a dicey, action-packed mission to protect one of their own. And a new force threatens to bring the Guardians down for good. WARNING: Some flashing-lights scenes may affect photosensitive viewers.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/graudin2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/gruadian.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":507,
+        "original_title":"The Night House",
+        "genres":["Horror","Suspense"],
+        "contentType":"Movie",
+        "overview":"After her husband dies, paranormal terrors emerge in a woman’s home.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/nighthouse2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/nighthouse.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":508,
+        "original_title":"Eternals",
+        "genres":["Action","Adventure"],
+        "contentType":"Movie",
+        "overview":"Marvel Studios’ ETERNALS follows a group of ancient heroes from beyond the stars who had protected Earth since the dawn of man. When monstrous creatures called Deviants, long thought lost to history, mysteriously return, the Eternals are forced to reunite in order to defend humanity once again.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/enternals2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/eternals.webp",
+        "video":"",
+        "release":2022
+      },
+      {
+        "_id":509,
+        "original_title":"Ant-Man and The Wasp: Quantumania",
+        "genres":["Action","Adventure","Comedy","Sci-Fic"],
+        "contentType":"Movie",
+        "overview":"Scott Lang (Paul Rudd) and Hope Van Dyne (Evangeline Lilly) are Ant-Man and The Wasp. Together, with their families, they explore the Quantum Realm, interact with strange new creatures and embark on an adventure that pushes them beyond what they thought possible. Warning: Some flashing-lights scenes in this film may affect photosensitive viewers.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/quantumania2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/quantumania.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":510,
+        "original_title":"Captain Marvel",
+        "genres":["Sci-Fic","Action"],
+        "contentType":"Movie",
+        "overview":"Marvel Studios' Captain Marvel takes you on a spectacular adventure from the 1990s, tracing the path of Carol Danvers (Brie Larson) as she becomes one of the universe's most powerful heroes. When a galactic war reaches Earth, she meets young agent Nick Fury (Samuel L. Jackson) at the center of a maelstrom, leading to her ultimate destiny as an Avenger!",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/captainmarvel2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/captionmarvel.webp",
+        "video":"",
+        "release":2021
+      },
+      {
+        "_id":511,
+        "original_title":"Deadpool 2",
+        "genres":["Sci-Fic","Action"],
+        "contentType":"Movie",
+        "overview":"Wisecracking anti-hero Deadpool joins a motley collection of mutants to save a rebellious teenage mutant from the grip of a powerful enemy",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/dealpl2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/deadpool2.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":512,
+        "original_title":"Percy Jackson",
+        "genres":["Adventure","Sci-Fic"],
+        "contentType":"Movie",
+        "overview":"A young boy discovers he's the descendant of a Greek god and sets out on an adventure to settle an on-going battle between the gods. Based on the book by Rick Riordan.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/precyjackback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/precyjakson.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":513,
+        "original_title":"Miss Peregrine's Home for Peculiar Children",
+        "genres":["Suspense","Drama"],
+        "contentType":"Movie",
+        "overview":"From visionary director Tim Burton, comes a wildly imaginative fantasy-adventure about a secret world for children with unusual powers.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/misspregin2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/mispregins.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":514,
+        "original_title":"The Mountain Between Us",
+        "genres":["Action","Drama"],
+        "contentType":"Movie",
+        "overview":"HD. Two strangers embark on a harrowing journey across the wilderness after their plane crashes in a remote mountain area.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/mountain2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/mountain.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":515,
+        "original_title":"The Fault in Our Stars",
+        "genres":["Drama"],
+        "contentType":"Movie",
+        "overview":"Two teenagers fall hopelessly in love after meeting in a cancer support group and experience a whirlwind romance that through facing death, they learn quickly the true meaning of life.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/thefaultbackdrop.webp",
+        "poster_path":"/Poster_path/TrendingMovies/thefault.webp",
+        "video":"",
+        "release":2021
+      },
+      {
+        "_id":516,
+        "original_title":"Love, Simon",
+        "genres":["Drama","Comedy"],
+        "contentType":"Movie",
+        "overview":"HD. A closeted gay teen deals with coming out to his family and friends in this charming.coming-of-age tale",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/lovesimonbackdrop.webp",
+        "poster_path":"/Poster_path/TrendingMovies/lovesiman.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":517,
+        "original_title":"Theater Camp",
+        "genres":["Comedy"],
+        "contentType":"Movie",
+        "overview":"In this original comedy, two best friends are drama instructors at a crumbling theater camp. When a clueless tech-bro arrives to run the property — into the ground — the staff and young students unite for the ultimate show to save their beloved camp. Warning: Some flashing-lights scenes in this film may affect photosensitive viewers.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/theatorcapback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/theratorcamp.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":518,
+        "original_title":"Ever After: A Cinderella Story",
+        "genres":["Drama"],
+        "contentType":"Movie",
+        "overview":"In this Cinderella story, a 16th-century woman who is treated as a servant by her stepmother, ends up winning the heart of the French prince.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/everafterback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/everafter.webp",
+        "video":"",
+        "release":2020
+      },
+      {
+        "_id":519,
+        "original_title":"Turner And Hooch",
+        "genres":["Drama","Comedy"],
+        "contentType":"Movie",
+        "overview":"A detective must adopt the dog of a dead man to help find a murderer.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/turnerhooch2.webp",
+        "poster_path":"/Poster_path/TrendingMovies/turnerhoock.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":520,
+        "original_title":"Diary of a Wimpy Kid 3: Dog Days",
+        "genres":["Drama","kids"],
+        "contentType":"Movie",
+        "overview":"Everybody's favorite wimp, Greg Heffley (Zachary Gordon), is back for three times the fun in the latest film based on the super-popular book series! When Greg's dad (Steve Zahn) threatens to send him to military school if he doesn't stay out of trouble, Greg finds all-new ways to land himself in the doghouse!",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/dairywimkback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/dairywimky.webp",
+        "video":"",
+        "release":2016
+      },
+      {
+        "_id":521,
+        "original_title":"The Maze Runner",
+        "genres":["Action","Sci-Fic"],
+        "contentType":"Movie",
+        "overview":"A teen with no memory of the outside world awakens in a gigantic maze guarded by deadly creatures, and plots a daring escape.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/mazrunner_back.webp",
+        "poster_path":"/Poster_path/TrendingMovies/mazrunner.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":522,
+        "original_title":"Matriarch",
+        "genres":["Horror","Suspense"],
+        "contentType":"Movie",
+        "overview":"After getting stranded and being taken in by a farmer's family, a couple learns the clan's evil intentions. Now they must try to escape with their lives - and their newborn child.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/Matriacrhback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/matriarch.webp",
+        "video":"",
+        "release":2023
+      },
+      {
+        "_id":523,
+        "original_title":"Empire of Light",
+        "genres":["Romance","Drama"],
+        "contentType":"Movie",
+        "overview":"Sam Mendes' love letter to the movies centers on the bond between employees of an old cinema in an English seaside town in the early 1980s.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/empirelightback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/empireoflight.webp",
+        "video":"",
+        "release":2018
+      },
+      {
+        "_id":524,
+        "original_title":"Nightmare Alley",
+        "genres":["Drama","Suspense"],
+        "contentType":"Movie",
+        "overview":"An all-star cast shines in this suspenseful psychological thriller.",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/nigthmareback.webp",
+        "poster_path":"/Poster_path/TrendingMovies/nigthmare.webp",
+        "video":"",
+        "release":2021
+      },
+      {
+        "_id":525,
+        "original_title":"Three Billboards Outside Ebbing, Missouri",
+        "genres":["Comedy","Drama"],
+        "contentType":"Movie",
+        "overview":"From the director of 'In Bruges' and 'Seven Psychopaths.'",
+        "backdrop_path":"/Backdrop_images/TrendingMovies/billborad_back.webp",
+        "poster_path":"/Poster_path/TrendingMovies/threebill.webp",
+        "video":"",
+        "release":2017
+      }
+      
+  
+    ]
+}
+]
+
+
+

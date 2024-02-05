@@ -14,12 +14,12 @@ const Home = ()=>{
 
     async function handlemain(){
      try{
-      const req = await fetch("https://movies-api14.p.rapidapi.com/home",{
+      const req = await fetch("/Json/Movies.json",{
         method:"GET",
-        headers: {
-          'X-RapidAPI-Key': '7e57b8f0d2msh79692790ac4fa1fp1f7c4ajsnb626322a46f9',
-          'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
-        }
+        // headers: {
+        //   'X-RapidAPI-Key': '7e57b8f0d2msh79692790ac4fa1fp1f7c4ajsnb626322a46f9',
+        //   'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
+        // }
       })
   
       if(!req.ok){
@@ -30,8 +30,8 @@ const Home = ()=>{
   
   
         settrending(response[0].movies)
-        setnewmovie(response[1].movies)
-        // console.log(response);
+        setnewmovie(response[0].movies)
+        console.log(response[0].movies[0].backdrop_path);
       }
      }
      catch(err){

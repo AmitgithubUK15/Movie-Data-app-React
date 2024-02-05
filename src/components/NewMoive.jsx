@@ -73,7 +73,7 @@ export default function NewMovie({ newmoviesdata }) {
                 >
 
 
-                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.genres}/${encodeURIComponent(element.contentType)}/${encodeURIComponent(element.overview)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`} style={{textDecoration:"none"}}>
+                  <Link to={`/detail/${element._id}/${encodeURIComponent(element.original_title)}/${element.genres}/${encodeURIComponent(element.contentType)}/${encodeURIComponent(element.overview)}/${element.backdrop_path ? encodeURIComponent(element.backdrop_path) : 'default-image-path'}`} style={{textDecoration:"none",height:"338px",overflow:"hidden",display:"inline-block"}}>
                   
                    <img src={`${element.poster_path}`} alt="" className={`movieimages ${slideindex === index ? "blurimg" : ""}`}/>
                     <div className={`sendingdata ${slideindex === index ? "showwrp": ""}`}>

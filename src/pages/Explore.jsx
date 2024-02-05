@@ -11,12 +11,12 @@ export default function Explore() {
 
     async function handlemain(){
      try{
-      const req = await fetch("https://movies-api14.p.rapidapi.com/home",{
+      const req = await fetch("/Json/Movies.json",{
         method:"GET",
-        headers: {
-          'X-RapidAPI-Key': '7e57b8f0d2msh79692790ac4fa1fp1f7c4ajsnb626322a46f9',
-          'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
-        }
+        // headers: {
+        //   'X-RapidAPI-Key': '7e57b8f0d2msh79692790ac4fa1fp1f7c4ajsnb626322a46f9',
+        //   'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
+        // }
       })
   
       if(!req.ok){
@@ -26,17 +26,18 @@ export default function Explore() {
         const response = await req.json();
   
   
-        for(let i=0; i<response.length; i++){
-          console.log(response[i].title)
-          if(response[i].title === exp_heading){
-            setdata(response[i].movies)
-            break;
-          }
-          else{
-            setdata(response[1].movies)
-          }
-        }
-
+        // for(let i=0; i<response.length; i++){
+        //   console.log(response[i].title)
+        //   if(response[i].title === exp_heading){
+        //     setdata(response[i].movies)
+        //     break;
+        //   }
+        //   else{
+        //     setdata(response[1].movies)
+        //   }
+        // }
+ 
+        setdata(response[0].movies)
        
         // setnewmovie(response[1].movies)
         // console.log(response);

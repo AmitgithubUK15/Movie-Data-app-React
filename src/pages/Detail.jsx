@@ -9,11 +9,12 @@ const Details = () => {
 
   let genresarr = Genres.split(",")
   console.log(genresarr);
+  
  
   let movietile = type.charAt(0).toUpperCase() + type.slice(1);
   console.log(movieId);
   console.log(title)
-  console.log(image);
+  console.log(`"${image}"`);
   // console.log('Movie ID:', numericMovieId);
 
   return (
