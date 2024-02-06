@@ -282,6 +282,700 @@
       
   
     ]
+},
+{"title":"Trending Web Series",
+  "movies":[
+    {
+      "_id":526,
+      "original_title":"REACHER",
+      "genres":["Suspense","Drama","Action"],
+      "contentType":"Web Series",
+      "trailer":"/Video/Webseries/reachervideo.mp4",
+      "video":"/Videos/Webseries/reachershor.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/reachernewposter.webp",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"When retired Military Police Officer Jack Reacher is arrested for a murder he did not commit, he finds himself in the middle of a deadly conspiracy full of dirty cops, shady businessmen and scheming politicians. With nothing but his wits, he must figure out what is happening in Margrave, Georgia. The first season of Reacher is based on the international bestseller, The Killing Floor by Lee Child.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/reacherS1.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low, ಕನ್ನಡ, Italiano, Deutsch, தமிழ், עברית, Indonesia, Português (Portugal), Tiếng Việt, Español (Latinoamérica), Ελληνικά, తెలుగు, Français (France), Bahasa Melayu, Français (Canada), Filipino, 日本語, Português (Brasil), Nederlands, മലയാളം, Español (España), हिन्दी, العربية, Polski, Čeština, Magyar, Türkçe, ไทย, Română",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Thomas Vincent, Sam Hill, Stephen Surjik, Christine Moore, Norberto Barba, Omar Madha, Lin Oeding, MJ Bassett",
+        "Producers":"Nick Santora, Scott Sullivan, Paula Wagner, Marcy Ross, Lee Child, Don Granger, David Ellison, Dana Goldberg, Bill Bost, Sean Ryerson, Sam Hill, Aadrita Mukerji, Agatha Barnes",
+        "Staring":"Alan Ritchson, Malcolm Goodwin, Willa Fitzgerald",
+        "release":2022
+      },
+      {
+        "season":2,
+        "overview":"When members of Reacher’s old military unit start turning up dead, Reacher has just one thing on his mind—revenge.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/reacherS2back.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low, ಕನ್ನಡ, Italiano, Deutsch, தமிழ், עברית, Indonesia, Português (Portugal), Tiếng Việt, Español (Latinoamérica), Ελληνικά, తెలుగు, Français (France), Bahasa Melayu, Français (Canada), Filipino, 日本語, Português (Brasil), Nederlands, മലയാളം, Español (España), हिन्दी, العربية, Polski, Čeština, Magyar, Türkçe, ไทย, Română",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Thomas Vincent, Sam Hill, Stephen Surjik, Christine Moore, Norberto Barba, Omar Madha, Lin Oeding, MJ Bassett",
+        "Producers":"Nick Santora, Scott Sullivan, Paula Wagner, Marcy Ross, Lee Child, Don Granger, David Ellison, Dana Goldberg, Bill Bost, Sean Ryerson, Sam Hill, Aadrita Mukerji, Agatha Barnes",
+        "Staring":"Alan Ritchson, Malcolm Goodwin, Willa Fitzgerald",
+        "release":2023
+      }
+      ]
+    },
+
+    {
+      "_id":527,
+      "original_title":"mr.& mrs.smith",
+      "genres":["Action","Comedy","Suspense","Drama"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/mrssmith.mp4",
+      "video":"/Videos/Webseries/mr&msr_smith.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/mr_mrssmith.webp",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Meet the Smiths: two lonely strangers, John and Jane, who have given up their lives and identities to be thrown together as partners – both in espionage and in marriage.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/mrrsmithback_S1.png",
+        "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+        "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+        "Staring":"Donald Glover, Maya Erskine, Wagner Moura",
+        "release":2024
+      }
+      ]
+    },
+
+    {
+      "_id":528,
+      "original_title":"THE WHEEL OF TIME",
+      "genres":["Drama","Adventure","Action"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/wheeloftimet.mp4",
+      "video":"/Videos/Webseries/wheeloftime.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/wheeloftime_poster.webp",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/wheeloftime_S1.png",
+        "ContentAdvisor":"Flashing lights, nudity, violence, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, ಕನ್ನಡ, Italiano, Deutsch, தமிழ், עברית, Indonesia, Português (Portugal), Tiếng Việt, Español (Latinoamérica), Ελληνικά, తెలుగు, Français (France), Bahasa Melayu, Français (Canada), Filipino, 日本語, Português (Brasil), Nederlands, മലയാളം, Español (España), हिन्दी, العربية, Polski, Čeština, Magyar, Türkçe, ไทย, Română",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Uta Briesewitz, Wayne Yip, Salli Richardson Whitfield, Ciaran Donnelly",
+        "Producers":"Rosamund Pike, Uta Briesewitz, Mike Weber, Marigo Kehoe, Ted Field, Rick Selvage, Larry Mondragon, Dave Hill, Justine Juel Gillmer, David Brown, Amanda Kate Shuman, Rafe Judkins",
+        "Staring":"Rosamund Pike, Daniel Henney",
+        "release":2021
+      },
+      {
+        "season":2,
+        "overview":"Though Rand thought he destroyed the Dark One, evil is not gone from the world. Threats new and very old seek out the young friends from the Two Rivers, now scattered over the world. The woman who found and guided them is now powerless to help, and so they must find other sources of strength. In each other, or themselves. In the Light... or the Dark.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/wheeloftimebacks2.jpg",
+        "ContentAdvisor":"Flashing lights, nudity, violence, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, ಕನ್ನಡ, Italiano, Deutsch, தமிழ், עברית, Indonesia, Português (Portugal), Tiếng Việt, Español (Latinoamérica), Ελληνικά, తెలుగు, Français (France), Bahasa Melayu, Français (Canada), Filipino, 日本語, Português (Brasil), Nederlands, മലയാളം, Español (España), हिन्दी, العربية, Polski, Čeština, Magyar, Türkçe, ไทย, Română",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Uta Briesewitz, Wayne Yip, Salli Richardson Whitfield, Ciaran Donnelly",
+        "Producers":"Rosamund Pike, Uta Briesewitz, Mike Weber, Marigo Kehoe, Ted Field, Rick Selvage, Larry Mondragon, Dave Hill, Justine Juel Gillmer, David Brown, Amanda Kate Shuman, Rafe Judkins",
+        "Staring":"Rosamund Pike, Daniel Henney",
+        "release":2021
+      }
+      ]
+    },
+
+    {
+      "_id":529,
+      "original_title":"SALTBURN",
+      "genres":["Comedy","Drama","Suspense"],
+      "contentType":"Web Series",
+      "video":"/Videos/Webseries/saltburn.mp4",
+      "trailer":"/Videos/Webseries/saltburn_trailer.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/saltburn_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Academy Award winning filmmaker Emerald Fennell brings us a beautifully wicked tale of privilege and desire. Struggling to find his place at Oxford University, student Oliver Quick (Barry Keoghan) finds himself drawn into the world of the charming and aristocratic Felix Catton (Jacob Elordi), who invites him to Saltburn, his eccentric family’s sprawling estate, for a summer never to be forgotten.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/saltburn_back.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English [Audio Description], English, English Dialogue Boost: Medium, English Dialogue Boost: High, Español (España), 日本語, हिन्दी, Deutsch, Türkçe, Português, Español (Latinoamérica), Italiano, Polski, Français",
+        "Subtitles":"English [CC], العربية, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Suomi, Filipino, Français, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, 한국어, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Emerald Fennell",
+        "Producers":"Emerald Fennell, p.g.a., Josey McNamara, p.g.a., Margot Robbie, p.g.a.",
+        "Staring":"Barry Keoghan, Jacob Elordi, Rosamund Pike",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":530,
+      "original_title":"CINDERELLA",
+      "genres":["Comedy","Adventure"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/cendrellatrease.mp4",
+      "video":"/Videos/Webseries/cendrellatrease.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/cindrella_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"From Kay Cannon (Pitch Perfect), Cinderella is a modern movie musical with a bold take on the classic fairytale. Our ambitious heroine (Camila Cabello) has big dreams and with the help of her Fab Godmother, she perseveres to make them come true. Cinderella has an all-star cast including Idina Menzel, Minnie Driver, James Corden, Nicholas Galitzine, Billy Porter and Pierce Brosnan.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/cidrella_back.png",
+        "ContentAdvisor":"Violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English [Audio Description], English, English Dialogue Boost: High, Deutsch, Čeština, Italiano, Español (Latinoamérica), Français (France), Français (Canada), Polski, Magyar, Português, Español (España), 日本語",
+        "Subtitles":"English [CC], العربية, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Suomi, Filipino, Français (Canada), Français (France), עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, 한국어, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Kay Cannon",
+        "Producers":"Leo Pearlman, James Corden, Jonathan Kadin, Shannon McIntosh",
+        "Staring":"Camila Cabello, Idina Menzel, Billy Porter",
+        "release":2021
+      }
+      ]
+    },
+
+    {
+      "_id":531,
+      "original_title":"INVINCIBLE",
+      "genres":["Animation","Drama","Action","Adventure"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/invincbleshort.mp4",
+      "video":"/Videos/Webseries/invincbleshort.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/invincible_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"INVINCIBLE is an adult animated superhero series that revolves around 17-year-old Mark Grayson, who’s just like every other guy his age — except his father is the most powerful superhero on the planet, Omni-Man. But as Mark develops powers of his own, he discovers his father’s legacy may not be as heroic as it seems.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/invincble_S1.png",
+        "ContentAdvisor":"Violence, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Jeff Allen, Robert Valley, Haeyoung Jung, Paul Furminger, Youngsoo Kim, Hanhyung Lee, Cory Evans, Osamu Tsuruyama, Jay Baker, Jae Harm, Vinton Heuck, Minsoo Kim, William Ruzicka",
+        "Producers":"Robert Kirkman, Catherine Winder, David Alpert, Simon Racioppa, Seth Rogen, Evan Goldberg",
+        "Staring":"Steven Yeun, Sandra Oh, J.K. Simmons",
+        "release":2019
+      },
+      {
+        "season":2,
+        "overview":"After an earth-shattering betrayal, Mark fights to rebuild his life. In the face of apocalyptic threats, he discovers new allies and wrestles with his greatest fear - that he might become his father.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/invicble_s2back.png",
+        "ContentAdvisor":"Violence, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Jeff Allen, Robert Valley, Haeyoung Jung, Paul Furminger, Youngsoo Kim, Hanhyung Lee, Cory Evans, Osamu Tsuruyama, Jay Baker, Jae Harm, Vinton Heuck, Minsoo Kim, William Ruzicka",
+        "Producers":"Robert Kirkman, Catherine Winder, David Alpert, Simon Racioppa, Seth Rogen, Evan Goldberg",
+        "Staring":"Steven Yeun, Sandra Oh, J.K. Simmons",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":532,
+      "original_title":"DANCE LIFE",
+      "genres":["Documentry","Unscripted"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/dancelife.mp4",
+      "video":"/Videos/Webseries/dancelife.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/dancelife_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Dance Life tracks the remarkable journey of Brent Street Academy students during their senior year, as they strive to become professional, commercial dancers. From perfectionists to prodigies, underdogs to the entitled, everyone's journey is unique.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/dancelife_back.png",
+        "ContentAdvisor":"Foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Luke Cornish",
+        "Producers":"Luke Cornish, David Alrich, Jade Barnes, Philip Busfield, Brendan Dahill, Shahn Devendran, Frace Luke Mercado, Chelsea Ovijach, Michael Sean Walters, Martin Hovsepian",
+        "Staring":"Cassie Bartho, Tiana Vassallo, Max Ostler",
+        "release":2024
+      }
+      ]
+    },
+
+    {
+      "_id":533,
+      "original_title":"WILDERNESS",
+      "genres":["Drama","Suspense"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/wildernessshort.mp4",
+      "video":"/Videos/Webseries/wildernessshort.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/wilderness_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Deliciously twisted thriller starring Jenna Coleman. Liv and Will seem to have it all. A rock-solid marriage. A glamorous new life in New York. Until Liv learns about the affair. Enter the American road trip she’s fantasied about. For Will, it’s a chance to make amends, for Liv it’s a very different prospect – a landscape where accidents happen all the time. The perfect place to get revenge.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/wilderness_back.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"So Yong Kim",
+        "Producers":"So Yong Kim, Marnie Dickens, Craig Holleworth, Elizabeth Kilgarriff, Ron McLeod, Karen Payne, Paul Ritchie, Michael Frislev, Daniel Hank, Chad Oakes",
+        "Staring":"Jenna Coleman, Oliver Jackson-Cohen, Ashley Benson",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":534,
+      "original_title":"CIDTADEL",
+      "genres":["Action","Drama","Suspense"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/citadel.mp4",
+      "video":"/Videos/Webseries/citadel.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/citadel_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"What if you lost your memory? What if a spy didn’t know they were a spy? Years ago, the top agents of Citadel, Mason Kane (Richard Madden) and Nadia Sinh (Priyanka Chopra Jonas), had their minds wiped. But, they’re called back to action as sinister forces emerge from the past. With the help of spymaster Bernard Orlick (Stanley Tucci), these former lovers must remember the past to save the future.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/citadel_back.png",
+        "ContentAdvisor":"Violence, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Newton Thomas Sigel, Jessica Yu",
+        "Producers":"David Weil, Anthony Russo, Joe Russo, Mike Larocca, Angela Russo-Otstot, Josh Appelbaum, André Nemec, Jeff Pinkner, Scott Rosenberg, Bryan Oh, Melissa Glenn, Brian Kirk, Patrick Moran, Sarah Bradshaw, Scott Nemes, Newton Thomas Sigel, Jake Aust, Chris Castaldi",
+        "Staring":"Richard Madden, Priyanka Chopra Jonas, Ashleigh Cummings",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":535,
+      "original_title":"JACK RYAN",
+      "genres":["Suspense","Action","Drama"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/jackryan.mp4",
+      "video":"/Videos/Webseries/jackryan.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/jackryan_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"When CIA analyst Jack Ryan stumbles upon a suspicious series of bank transfers his search for answers pulls him from the safety of his desk job and catapults him into a deadly game of cat and mouse throughout Europe and the Middle East, with a rising terrorist figurehead preparing for a massive attack against the US and her allies.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/jackryan_back_S1.png",
+        "ContentAdvisor":"Nudity, violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Lukas Ettlin, Jann Turner, Shana Stein",
+        "Producers":"Carlton Cuse, Graham Roland, Daniel Sackheim, Morten Tyldum, Michael Bay, Brad Fuller, Andrew Form, John Krasinski, Tom Clancy, David Ellison, Dana Goldberg, Marcy Ross, Mace Neufeld, Lindsey Springer, Allyson Seeger, Patrick Aison, Annie Jacobsen, Nazrin Choudhury, Jose Luis Escolar, Robert Phillips, Ra'uf Glasgow, Kiegan Downs",
+        "Staring":"Wendell Pierce, John Krasinski, Michael Kelly",
+        "release":2018
+      },
+      {
+        "season":2,
+        "overview":"After tracking a suspicious shipment in the Venezuelan jungle, Jack Ryan heads to South America to investigate. As Jack threatens to uncover a far-reaching conspiracy, the President of Venezuela launches a counter-attack that hits home, leading Jack on a mission spanning the US, UK, Russia, and Venezuela to unravel the President's plot and bring stability to a country on the brink of chaos.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/jackryan_back_s2.png",
+        "ContentAdvisor":"Nudity, violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Jann Turner, Patricia Riggen, Daniel Sackheim, Andrew Bernstein, Dennie Gordon, Kevin Dowling, Lukas Ettlin, Phil Abraham, David Petrarca, Carlton Cuse",
+        "Producers":"Carlton Cuse, Graham Roland, Daniel Sackheim, Morten Tyldum, Michael Bay, Brad Fuller, Andrew Form, John Krasinski, Tom Clancy, David Ellison, Dana Goldberg, Marcy Ross, Mace Neufeld, Lindsey Springer, Allyson Seeger, Patrick Aison, Annie Jacobsen, Nazrin Choudhury, Jose Luis Escolar, Robert Phillips, Ra'uf Glasgow, Kiegan Downs",
+        "Staring":"John Krasinski, Wendell Pierce, Noomi Rapace",
+        "release":2019
+      },
+      {
+        "season":3,
+        "overview":"In Season 3 of Tom Clancy’s Jack Ryan, Jack races against time and across Europe to stop a rogue faction within the Russian government from restoring the Soviet Empire and starting World War III.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/jackryan_back_s3.png",
+        "ContentAdvisor":"Nudity, violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Jann Turner, Patricia Riggen, Daniel Sackheim, Andrew Bernstein, Dennie Gordon, Kevin Dowling, Lukas Ettlin, Phil Abraham, David Petrarca, Carlton Cuse",
+        "Producers":"Carlton Cuse, Graham Roland, Daniel Sackheim, Morten Tyldum, Michael Bay, Brad Fuller, Andrew Form, John Krasinski, Tom Clancy, David Ellison, Dana Goldberg, Marcy Ross, Mace Neufeld, Lindsey Springer, Allyson Seeger, Patrick Aison, Annie Jacobsen, Nazrin Choudhury, Jose Luis Escolar, Robert Phillips, Ra'uf Glasgow, Kiegan Downs",
+        "Staring":"John Krasinski, Wendell Pierce, Noomi Rapace",
+        "release":2022
+      },
+      {
+        "season":4,
+        "overview":"The fourth and final season finds Jack Ryan on his most dangerous mission yet. As the new CIA Acting Deputy Director, Jack is tasked with unearthing internal corruption. As he investigates, Jack discovers the convergence of a drug cartel with a terrorist organization, ultimately revealing a conspiracy much closer to home and testing our hero’s belief in the system he has always fought to protect.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/Jackryan_back_s4.png",
+        "ContentAdvisor":"Nudity, violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Jann Turner, Patricia Riggen, Daniel Sackheim, Andrew Bernstein, Dennie Gordon, Kevin Dowling, Lukas Ettlin, Phil Abraham, David Petrarca, Carlton Cuse",
+        "Producers":"Carlton Cuse, Graham Roland, Daniel Sackheim, Morten Tyldum, Michael Bay, Brad Fuller, Andrew Form, John Krasinski, Tom Clancy, David Ellison, Dana Goldberg, Marcy Ross, Mace Neufeld, Lindsey Springer, Allyson Seeger, Patrick Aison, Annie Jacobsen, Nazrin Choudhury, Jose Luis Escolar, Robert Phillips, Ra'uf Glasgow, Kiegan Downs",
+        "Staring":"John Krasinski, Wendell Pierce, Noomi Rapace",
+        "release":2023
+      }
+      ]
+    },
+    {
+      "_id":536,
+      "original_title":"DEADLOCH",
+      "genres":["Comedy"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/deadloch.mp4",
+      "video":"/Videos/Webseries/deadloch.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/deadloch_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Two vastly different female detectives are thrown together to solve the murder of a local man in the sleepy seaside hamlet of Deadloch.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/deadloch_back_S1.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Ben Chessell, Beck Cole, Gracie Otto",
+        "Producers":"Ben Chessell, Kate McCartney, Fiona McConaghy, Kate McLennan, Tanya Phegan, Andrew Walker, Kevin Whyte",
+        "Staring":"Kate Box, Madeleine Sami, Alicia Gardiner",
+        "release":2023
+      }
+      ]
+    },
+    {
+      "_id":537,
+      "original_title":"ROLEPLAY",
+      "genres":["Comedy","Romance","Action"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/roleplay.mp4",
+      "video":"/Videos/Webseries/roleplay.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/roleplay_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Emma (Kaley Cuoco) and Dave (David Oyelowo) spice up their wedding anniversary with a night of role-play in New York City. But things turn perilous when Emma's secret life as an international assassin, unknown to Dave, is exposed by Bob (Bill Nighy), jeopardizing her family. Emma must rely on her lethal skills and determination to protect her family at all costs.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/roleplay_back.png",
+        "ContentAdvisor":"Violence, alcohol use, foul language",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Thomas Vincent",
+        "Producers":"Alex Heineman, Andrew Rona, Kaley Cuoco",
+        "Staring":"Kaley Cuoco, David Oyelowo, Bill Nighy",
+        "release":2024
+      }
+      ]
+    },
+
+    {
+      "_id":538,
+      "original_title":"The Peripheral",
+      "genres":["Drama","Sci-Fic","Suspense","Action"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/theperiperls.mp4",
+      "video":"/Videos/Webseries/theperiperls.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/therperiperls_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"The Peripheral centers on Flynne Fisher, a woman trying to hold together the pieces of her broken family in a forgotten corner of tomorrow's America. Flynne is smart, ambitious, and doomed. She has no future. Until the future comes calling for her. The Peripheral is master storyteller William Gibson’s dazzling, hallucinatory glimpse into the fate of mankind — and what lies beyond.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/thepreriperl_back.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Vincenzo Natali, Alrick Riley",
+        "Producers":"Jonah Nolan, Lisa Joy, Athena Wickham",
+        "Staring":"Chloe Grace Moretz, Jack Reynor, Gary Carr",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":539,
+      "original_title":"MEMORY",
+      "genres":["Action","Suspense"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/memory.mp4",
+      "video":"/Videos/Webseries/memory.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/memory_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"An assassin-for-hire finds that he's become a target after he refuses to complete a job for a dangerous criminal organization.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/memroy_back.png",
+        "ContentAdvisor":"Violence, foul language",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Martin Campbell",
+        "Producers":"Peter Bouckaert, Marilyn Brindis, Paula Crickard, Moshe Diamant, Rudy Durand, Michael Heimler, Rupert Maconick, James Masciello, Bernard Mazauric",
+        "Staring":"Liam Neeson, Guy Pearce, Monica Bellucci",
+        "release":2022
+      }
+      ]
+    },
+    {
+      "_id":540,
+      "original_title":"The Marvelous Mrs Maisel",
+      "genres":["Comedy","Drama"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/themarvalues.mp4",
+      "video":"/Videos/Webseries/themarvalues.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/themarvelous_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"In the fifth and final season, Midge finds herself closer than ever to the success she's dreamed of, only to discover that closer than ever is still so far away.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/themarvlous_back.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Amy Sherman-Palladino, Daniel Palladino, Daisy von Scherler Mayer, Scott Ellis",
+        "Producers":"Amy Sherman-Palladino, Daniel Palladino, Dhana Rivera Gilbert, Neena Beber, Dipika Guha",
+        "Staring":"Rachel Brosnahan, Alex Borstein, Michael Zegen",
+        "release":2017
+      }
+      ]
+    },
+
+    {
+      "_id":541,
+      "original_title":"UPLOAD",
+      "genres":["Drama","Sci-Fic","Action"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/upload.mp4",
+      "video":"/Videos/Webseries/upload.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/upload_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"From the Emmy-winning Greg Daniels (The Office, Parks & Rec) comes a hilarious new sci-fi comedy. In the future people can upload their consciousness to a luxurious digital afterlife. When party boy Nathan gets uploaded to a virtual resort he meets the down-to-earth Nora who starts as his customer service “angel”, but becomes so much more as she helps him find friendship, love and purpose.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/upload_back_s1.jpg",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Greg Daniels, Kacie Anning, Jonathan van Tulleken, David Rogers, Jeffrey Blitz, Daina Reid",
+        "Producers":"Greg Daniels, Howard Klein, Shepard Boucher, Arielle Boisvert, Shawn Williamson, Mike Lawrence, Alex Sherman, Alyssa Lane, David Rogers, Brent Forrester, Mark Douglas, Jill Danton, Cristina Verano, Katie Strunk",
+        "Staring":"Robbie Amell, Andy Allo, Allegra Edwards",
+        "release":2018
+      },
+      {
+        "season":2,
+        "overview":"Greg Daniels’ (The Office, Parks & Rec) hit comedy is back! In this futuristic satire, people can have their consciousness uploaded to a luxurious digital afterlife. This season, customer service “angel” Nora has gone off the grid into the world of a tech-resistant group leaving Nathan in Lakeview where he awkwardly settles in with his ex, Ingrid, who’s unexpectedly uploaded for him.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/upload_back_s2.jpg",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Greg Daniels, Kacie Anning, Jonathan van Tulleken, David Rogers, Jeffrey Blitz, Daina Reid",
+        "Producers":"Greg Daniels, Howard Klein, Shepard Boucher, Arielle Boisvert, Shawn Williamson, Mike Lawrence, Alex Sherman, Alyssa Lane, David Rogers, Brent Forrester, Mark Douglas, Jill Danton, Cristina Verano, Katie Strunk",
+        "Staring":"Robbie Amell, Andy Allo, Allegra Edwards",
+        "release":2019
+      },
+      {
+        "season":3,
+        "overview":"Prime Video’s #1 comedy is back! In Season 3, the recently downloaded Nathan and Nora start an IRL relationship while taking down Freeyond. Meanwhile, a digital copy of Nathan is brought to life in Lakeview where he explores an alternate path with Ingrid. Aleesha is promoted to manager and has a new workplace love interest, and a lonely Luke looks for",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/upload_back_S3.png",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Greg Daniels, Kacie Anning, Jonathan van Tulleken, David Rogers, Jeffrey Blitz, Daina Reid",
+        "Producers":"Greg Daniels, Howard Klein, Shepard Boucher, Arielle Boisvert, Shawn Williamson, Mike Lawrence, Alex Sherman, Alyssa Lane, David Rogers, Brent Forrester, Mark Douglas, Jill Danton, Cristina Verano, Katie Strunk",
+        "Staring":"Robbie Amell, Andy Allo, Allegra Edwards",
+        "release":2020
+      } 
+      ]
+    },
+
+    {
+      "_id":542,
+      "original_title":"Guy Ritchie's The Covenant",
+      "genres":["Action","Drama","Adventure","Suspense"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/guyritchie.mp4",
+      "video":"/Videos/Webseries/guyritchie.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/guyritchie_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Guy Ritchie’s The Covenant follows US Army Sergeant John Kinley (Jake Gyllenhaal) and Afghan interpreter Ahmed (Dar Salim). After an ambush, Ahmed goes to Herculean lengths to save Kinley’s life. When Kinley learns that Ahmed and his family were not given safe passage to America as promised, he must repay his debt by returning to the war zone to retrieve them before the Taliban hunts them down",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/guyritchie_back.jpg",
+        "ContentAdvisor":"Violence, substance use, smoking, foul language",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Guy Ritchie",
+        "Producers":"Robert Simonds, Adam Fogelson, Olga Filipuk, Samantha Waite, Guy Ritchie, Ivan Atkinson, John Friedberg, Josh Berger",
+        "Staring":"Jake Gyllenhaal, Dar Salim, Antony Starr",
+        "release":2023
+      }
+      ]
+    },
+
+    {
+      "_id":543,
+      "original_title":"MyFault",
+      "genres":["Drama","Romance"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/myfault.mp4",
+      "video":"/Videos/Webseries/myfault.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/myfault_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Noah must leave her town, boyfriend and friends to move into her mom's new husband's mansion. There, she meets her new stepbrother Nick and their personalities clash from the very beginning. But the attraction they feel will lead them to live a forbidden relationship, where their rebellious and tormented tempers will turn their worlds upside down, making them fall madly in love.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/myfault_back.jpg",
+        "ContentAdvisor":"Nudity, violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Domingo González",
+        "Producers":"Álex de la Iglesia, Carolina Bang, Araceli Pérez-Rastrilla",
+        "Staring":"Nicole Wallace, Gabriel Guevara, Marta Hazas",
+        "release":2023
+      }
+      ]
+    },
+
+    {
+      "_id":544,
+      "original_title":"Champions",
+      "genres":["Drama","Comedy","Sports"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/champions.mp4",
+      "video":"/Videos/Webseries/champions.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/champions_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Woody Harrelson stars in the hilarious and heartwarming story of a basketball coach who is ordered by the court to manage a team of players with intellectual disabilities.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/champions_back.png",
+        "ContentAdvisor":"Alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Bobby Farrelly",
+        "Producers":"Paul Brooks, Scott Niemeyer, Jeremy Plager",
+        "Staring":"Woody Harrelson, Kaitlin Olson, Matt Cook",
+        "release":2023
+      }
+      ]
+    },
+    {
+      "_id":545,
+      "original_title":"M3GAN",
+      "genres":["Horror","Suspense","Sci-Fic"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/m3gan.mp4",
+      "video":"/Videos/Webseries/m3gan.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/m3gan_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"A roboticist working on a life-like toy android named M3GAN takes in her orphaned niece. She pairs the two up, trying to solve for both issues...and it does not go as planned.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/m3gan_back.jpg",
+        "ContentAdvisor":"Violence, alcohol use, foul language",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Gerard Johnstone",
+        "Producers":"Jason Blum, James Wan",
+        "Staring":"Allison Williams, Ronny Chieng, Violet McGraw",
+        "release":2023
+      }
+      ]
+    },
+    {
+      "_id":546,
+      "original_title":"THE DEVIL'S HOUR",
+      "genres":["Suspense","Drama"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/devilhours.mp4",
+      "video":"/Videos/Webseries/devilhours.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/the_devil_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Peter Capaldi and Jessica Raine star in this gripping six-part psychological thriller. Lucy wakes every night at exactly 3:33am. Nothing in her life has made sense for a long time. But the answers are out there, somewhere, at the end of a trail of brutal murders",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/the_devil_back.jpg",
+        "ContentAdvisor":"Violence, frightening scenes, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Johnny Allan, Isabelle Sieb",
+        "Producers":"Sue Vertue, Ken Horn",
+        "Staring":"Jessica Raine, Peter Capaldi, Nikesh Patel",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":547,
+      "original_title":"Red White&Royals Blue",
+      "genres":[],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/Redwhite.mp4",
+      "video":"/Videos/Webseries/Redwhite.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/redwhite_poster.png",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Based on the New York Times bestseller, Red, White & Royal Blue centers around Alex, the president’s son, and Britain’s Prince Henry whose long-running feud threatens to drive a wedge in U.S./British relations. When the rivals are forced into a staged truce, their icy relationship begins to thaw and the friction between them sparks something deeper than they ever expected.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/redwhte_back.png",
+        "ContentAdvisor":"Nudity, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Matthew López",
+        "Producers":"Greg Berlanti, Sarah Schechter",
+        "Staring":"Nicholas Galitzine, Taylor Zakhar Perez, Uma Thurman",
+        "release":2022
+      }
+      ]
+    },
+
+    {
+      "_id":548,
+      "original_title":"Cocaine Bear",
+      "genres":[],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/conicbear.mp4",
+      "video":"/Videos/Webseries/conicbear.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/conaiebear_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Inspired by the true story of a drug runner's plane crash, lost cocaine and the bear that ate it. This wild comedy shows an apex predator on a rampage for blow—and blood",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/conicebear_back.png",
+        "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Elizabeth Banks",
+        "Producers":"Phil Lord, Christopher Miller, Elizabeth Banks, Max Handelman, Brian Duffield, Aditya Sood",
+        "Staring":"Keri Russell, O'Shea Jackson Jr., Christian Convery",
+        "release":2023
+      }
+      ]
+    },
+    
+    {
+      "_id":549,
+      "original_title":"Harlan Coben's Shelter",
+      "genres":["Drama","Suspense","Action","Adventure"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/theshelter.mp4",
+      "video":"/Videos/Webseries/theshelter.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/thershelter_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"Based on the bestselling series by Harlan Coben, Shelter follows the story of Mickey Bolitar after the death of his father leads him to start a new life in suburban New Jersey. When another new student disappears, Mickey finds himself tangled in a web of secrets. With the help of two new friends, Spoon and Ema, they reveal a dark underground that may hold the answers to decades of disappearances.",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/theshelter_back.png",
+        "ContentAdvisor":"Violence, alcohol use, foul language, sexual content",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Patricia Cardoso, Edward Ornelas, Christina Choe, Deborah Kampmeier",
+        "Producers":"Harlan Coben, Allen MacDonald, Edward Ornelas, Erik Barmack, Margo Myers Massey, Andrew Saxe, Alfredo Barrios, Jr., Nicki Renna, Charlotte Coben, Maria Cerretani, Richard Fee",
+        "Staring":"Jaden Michael, Constance Zimmer, Adrian Greensmith",
+        "release":2023
+      }
+      ]
+    },
+    {
+      "_id":550,
+      "original_title":"007: Road to a Million",
+      "genres":["Unscripted","Action","Adventure"],
+      "contentType":"Web Series",
+      "trailer":"/Videos/Webseries/ootroad.mp4",
+      "video":"/Videos/Webseries/ootroad.mp4",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/oo7road_poster.jpg",
+      "seasons":[
+        {
+        "season":1,
+        "overview":"From the producers behind the James Bond movies comes 007: Road To A Million. Nine pairs of everyday people are unleashed on an epic global adventure through a series of Bond inspired challenges, for a shot at winning a life-changing £1,000,000 prize. The Controller (Brian Cox) is the mastermind behind the game, watching the pairs as they hunt for 10 questions he’s hidden around the worl",
+        "backdrop_path":"/Backdrop_images/TrendingWebS_back/oo7road_back.png",
+        "ContentAdvisor":"Smoking, foul language",
+        "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English Dialogue Boost: Low, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+        "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+        "director":"Julian Jones, Tom Dumican, Jamie Goold, Alice Smith",
+        "Producers":"Ben Allen, Dominic Bird, Alice Boorman, Barbara Broccoli, John Douglas, Dominique Foster",
+        "Staring":"Brian Cox, Josh Ali, Nick Ashton-Jones",
+        "release":2023
+      }
+      ]
+    }
+
+  ]
 }
 ]
 

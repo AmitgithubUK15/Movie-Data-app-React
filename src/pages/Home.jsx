@@ -3,11 +3,13 @@ import Trending from "../components/Trending";
 import './Home.css'
 import { Link } from "react-router-dom";
 import NewMoive from "../components/NewMoive";
+import NewWebseries from "../components/NewWebseries";
 
 const Home = ()=>{
   
   const [trending,settrending] = useState();
   const [newmovie,setnewmovie] = useState();
+  const [Webseries,setWebseries] = useState();
   
   console.log();
   useEffect(()=>{
@@ -31,7 +33,8 @@ const Home = ()=>{
   
         settrending(response[0].movies)
         setnewmovie(response[0].movies)
-        console.log(response[0].movies[0].backdrop_path);
+        setWebseries(response[1].movies);
+        // console.log(response[1].movies);
       }
      }
      catch(err){
@@ -51,7 +54,7 @@ const Home = ()=>{
               <Trending  trendingsid={trending} />
 
              <div className="alltypeshowwrp" >
-               <div className="imgdivwrp" style={{backgroundImage: `linear-gradient(to  right, rgb(8, 1, 16),rgb(0 4 18 / 84%)),url("./images/lionsgate.jpg")`,
+               <div className="imgdivwrp" style={{backgroundImage: `linear-gradient(to right, rgb(8, 1, 16), rgb(0 4 18 / 67%)), linear-gradient(to top, rgb(2, 2, 17), rgb(0 4 18 / 0%)), url(./images/lionsgate.jpg)`,
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                       backgroundRepeat: "none",
@@ -74,6 +77,8 @@ const Home = ()=>{
                   
                  </section>
                </div>
+               <NewMoive newmoviesdata={newmovie}/>
+               <NewWebseries WebseriesData={Webseries}/>
                <NewMoive newmoviesdata={newmovie}/>
              </div>
           </div>  
