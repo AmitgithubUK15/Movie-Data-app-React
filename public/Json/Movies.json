@@ -1,5 +1,5 @@
 [
-    {"title":"Trending Movies",
+{"title":"Trending Movies",
     "movies":[
 
         {
@@ -323,7 +323,7 @@
 
     {
       "_id":527,
-      "original_title":"mr.& mrs.smith",
+      "original_title":"Mr.& Mrs.Smith",
       "genres":["Action","Comedy","Suspense","Drama"],
       "contentType":"Web Series",
       "trailer":"/Videos/Webseries/mrssmith.mp4",
@@ -412,7 +412,7 @@
       "contentType":"Web Series",
       "trailer":"/Videos/Webseries/cendrellatrease.mp4",
       "video":"/Videos/Webseries/cendrellatrease.mp4",
-      "poster_path":"/Poster_path/TrendingWebSeries_poster/cindrella_poster.png",
+      "poster_path":"/Poster_path/TrendingWebSeries_poster/cindrrella_new_poster.webp",
       "seasons":[
         {
         "season":1,

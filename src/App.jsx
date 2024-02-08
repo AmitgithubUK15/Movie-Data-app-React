@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Header from './components/Header';
 import Detail from './pages/Detail';
 import Explore from './pages/Explore';
+import WebseriesDetail from './pages/WebseriesDetail';
 
 function App() {
 
@@ -13,8 +14,9 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/data' element={<Result />} />
-        <Route path='/detail/:movieId/:title/:Genres/:type/:overview/:image' element={<Detail />} />
-        <Route path='/explore' element={<Explore />} />
+        <Route path='/detail/:movieId/:title/:Genres/:type/:overview/:image' element={<Detail />}/>
+        <Route path='/explore/' element={<Explore />} />
+        <Route path='/seriesdetail/:movieId/:title/:Genres/:type/:treaser' element={<WebseriesDetail />} />
       </Routes>
     </BrowserRouter>
   )

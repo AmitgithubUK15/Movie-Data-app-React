@@ -79,7 +79,7 @@ const Home = ()=>{
                </div>
                <NewMoive newmoviesdata={newmovie}/>
                <NewWebseries WebseriesData={Webseries}/>
-               <NewMoive newmoviesdata={newmovie}/>
+               <NewMoive newmoviesdata={newmovie} />
              </div>
           </div>  
          </div>

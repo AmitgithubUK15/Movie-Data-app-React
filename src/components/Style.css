@@ -196,8 +196,8 @@
 
 .widthincrea{
   width: 739px;
-  border-radius: 8px;
-  
+  border-radius: 12px;
+  position: relative;
   height: 404px;
   
 }
@@ -235,7 +235,7 @@
   height: 404px; */
   display: none;
   height: width 0.5s ease;
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 .showvideo{
@@ -243,3 +243,50 @@
   /* object-position: center;
   object-fit: cover; */
 }
+
+/* for detail btn  */
+
+.detailbtn{
+  position: absolute;
+  bottom: -191;
+  height: 0;
+  overflow: hidden;
+  transition: height 0.5s ease-in-out;
+  width: 246px;
+}
+
+.shdetalsec{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  bottom: 7px;
+  width: 488px;
+  height: 391px;
+  overflow: hidden;
+}
+
+.seriesnm{
+  width: 388px;
+  text-align: left;
+}
+
+
+.btninnerdiv{
+  margin: 0 50px;
+}
+
+.btnseciton{
+  text-align: left;
+}
+
+.btnseciton button{
+  outline: none;
+    border: none;
+    padding: 17px 17px;
+    font-size: 20px;
+    color: black;
+    background: white;
+    border-radius: 10px;
+    font-weight: 550;
+}
+
