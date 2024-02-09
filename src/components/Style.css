@@ -143,9 +143,10 @@
 
 .webseris_wrp {
   width: 1508px;
-  height: 500px;
+  height: 448px;
   position: relative;
   overflow: hidden;
+  padding: 17px 0;
 }
 
 .web_inerwpr {
@@ -172,17 +173,22 @@
   overflow-x: scroll;
 }
 
+.inerscrollwrp::-webkit-scrollbar{
+  width: 0;
+  scrollbar-width: 0;
+}
+
 .seriesul {
   display: flex;
   height: 435px;
   padding-left: 20px;
-  width: 490%;
+  width: 686%;
 }
 
-/* .seriesul::-webkit-scrollbar{
-  width: 0;
+.seriesul::-webkit-scrollbar {
   scrollbar-width: 0;
-} */
+}
+
 
 .list_item {
   display: inline-block;
@@ -190,7 +196,7 @@
   height: 404px;
   margin: 0px 14px;
   border-radius: 8px;
-  transition: width 0.5s ease-in-out;
+  transition: width 0.5s linear;
   overflow: hidden;
 }
 
@@ -217,17 +223,17 @@
 .ws_Lbtn {
   display: none;
   position: absolute;
-  left: -1px;
+  left: -5px;
   z-index: 900;
   cursor: pointer;
 }
 
 .ws_Rbtn {
   display: none;
-  position: relative;
+  position: absolute;
   right: -2px;
   cursor: pointer;
-
+  /* z-index: 999; */
 }
 
 .ws_backvideo{
@@ -247,9 +253,9 @@
 /* for detail btn  */
 
 .detailbtn{
-  position: absolute;
-  bottom: -191;
-  height: 0;
+  position: relative;
+  top: -8px;
+  height: 391px;
   overflow: hidden;
   transition: height 0.5s ease-in-out;
   width: 246px;
@@ -259,7 +265,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  bottom: 7px;
+  top: -400px;
   width: 488px;
   height: 391px;
   overflow: hidden;

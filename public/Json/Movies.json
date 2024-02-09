@@ -29,7 +29,7 @@
       {
         "_id":503,
         "original_title":"Indiana Jones and the Dial of Destiny",
-        "genres":[],
+        "genres":["Sci-Fic","Action"],
         "contentType":"Movie",
         "overview":"Harrison Ford returns to the role of the legendary hero archaeologist, Indiana Jones, for this highly anticipated final installment of the iconic franchise – a big, globe-trotting, rip-roaring adventure!",
         "backdrop_path":"/Backdrop_images/TrendingMovies/indiana_jones2.webp",
@@ -290,7 +290,7 @@
       "original_title":"REACHER",
       "genres":["Suspense","Drama","Action"],
       "contentType":"Web Series",
-      "trailer":"/Video/Webseries/reachervideo.mp4",
+      "trailer":"/Videos/Webseries/reachervideo.mp4",
       "video":"/Videos/Webseries/reachershor.mp4",
       "poster_path":"/Poster_path/TrendingWebSeries_poster/reachernewposter.webp",
       "seasons":[
@@ -973,7 +973,309 @@
         "release":2023
       }
       ]
-    }
+    },
+    {
+      "_id": 551,
+      "original_title": "The Witcher",
+      "genres": ["Fantasy", "Adventure", "Action"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/thewitchervideo.mp4",
+      "video": "/Videos/Webseries/thewitchershor.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/thewitcher_poster.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts. Based on the book series by Andrzej Sapkowski.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/witchler_back.png",
+          "ContentAdvisor": "Violence, nudity, substance use, alcohol use, smoking, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low, Español, Français, Italiano, Deutsch, Polski, Português, 日本語",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Italiano, Polski, Português, 日本語, 中文（简体）, 中文（繁體）, 한국어, ภาษาไทย",
+          "director": "Alik Sakharov, Alex Garcia Lopez, Charlotte Brändström, Marc Jobst",
+          "Producers": "Lauren Schmidt Hissrich, Tomasz Baginski, Jason F. Brown, Sean Daniel, Mike Ostrowski",
+          "Staring": "Henry Cavill, Freya Allan, Anya Chalotra",
+          "release": 2019
+        }
+      ]
+    },
+    {
+      "_id": 552,
+      "original_title": "Money Heist",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/manihiest.mp4",
+      "video": "/Videos/Webseries/manihiest.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/monyheisst_poster.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "A criminal mastermind who goes by 'The Professor' has a plan to pull off the biggest heist in recorded history. To carry out the ambitious plan, he recruits a team of eight people with certain abilities who have nothing to lose. The goal is to enter the Royal Mint of Spain and print €2.4 billion.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/moneyhiest_back.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "Spanish Dialogue Boost: High, Spanish, Spanish [Audio Description], Spanish Dialogue Boost: Medium, Spanish Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Jesús Colmenar, Álex Rodrigo, Alejandro Bazzano, Miguel Ángel Vivas, Koldo Serra",
+          "Producers": "Vancouver Media, Atresmedia, Netflix",
+          "Staring": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
+          "release": 2017
+        }
+      ]
+    },
+    {
+      "_id": 553,
+      "original_title": "Breaking Bad",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/breakingbadvideo.mp4",
+      "video": "/Videos/Webseries/breakingbadvideo.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/breakingbadposter.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell the world's purest methamphetamine to secure his family's future. However, this decision leads him down a dark path of crime and danger.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/breakingbadS1.png",
+          "ContentAdvisor": "Violence, foul language, drug content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Vince Gilligan",
+          "Producers": "Vince Gilligan, Mark Johnson, Michelle MacLaren",
+          "Staring": "Bryan Cranston, Aaron Paul, Anna Gunn",
+          "release": 2008
+        }
+      ]
+    },
+    {
+      "_id": 554,
+      "original_title": "Black Mirror",
+      "genres": ["Sci-Fi", "Drama", "Thriller"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/blackmirrorvideo.mp4",
+      "video": "/Videos/Webseries/blackmirrorvideo.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/blackmirrorposter.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/blackmirrorS1.png",
+          "ContentAdvisor": "Violence, disturbing themes, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Charlie Brooker, Owen Harris, Carl Tibbetts, Otto Bathurst, Euros Lyn",
+          "Producers": "Charlie Brooker, Annabel Jones, Barney Reisz",
+          "Staring": "Daniel Lapaine, Hannah John-Kamen, Michaela Coel",
+          "release": 2011
+        }
+      ]
+    },
+    {
+      "_id": 555,
+      "original_title": "Narcos",
+      "genres": ["Crime", "Drama", "Biography"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/narcosvideo.mp4",
+      "video": "/Videos/Webseries/narcosvideo.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/narcosposter.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/narcosS1.png",
+          "ContentAdvisor": "Violence, foul language, drug content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "José Padilha, Andi Baiz, Guillermo Navarro, Gerardo Naranjo, Andi Baiz, Andi Baiz",
+          "Producers": "Chris Brancato, Carlo Bernard, Doug Miro",
+          "Staring": "Wagner Moura, Boyd Holbrook, Pedro Pascal",
+          "release": 2015
+        }
+      ]
+    },
+    {
+      "_id": 556,
+      "original_title": "The Crown",
+      "genres": ["Biography", "Drama", "History"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/thecrownvideo.mp4",
+      "video": "/Videos/Webseries/thecrownvideo.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/thecrownposter.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/thecrownS1.png",
+          "ContentAdvisor": "Violence, foul language",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Benjamin Caron, Philip Martin, Julian Jarrold, Stephen Daldry",
+          "Producers": "Peter Morgan, Stephen Daldry, Andy Harries",
+          "Staring": "Claire Foy, Olivia Colman, Imelda Staunton",
+          "release": 2016
+        }
+      ]
+    },
+    {
+      "_id": 557,
+      "original_title": "Peaky Blinders",
+      "genres": ["Crime", "Drama"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/peakyblindersvideo.mp4",
+      "video": "/Videos/Webseries/peakyblindersvideo.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/peakyblindersposter.png",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS1.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2013
+        },
+        {
+          "season": 2,
+          "overview": "When Birmingham crime boss Tommy Shelby's beloved Garrison pub is bombed, he finds himself blackmailed into murdering an Irish dissident.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS2.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2013
+        },
+        {
+          "season": 3,
+          "overview": "It is Thomas Shelby's long-awaited wedding day. A mysterious visitor imperils the entire Shelby family, and Tommy finds himself pulled into a web of intrigue more lethal than anything he has yet encountered.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS3.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2016
+        },
+        {
+          "season": 4,
+          "overview": "In the wake of the Wall Street Crash, Tommy faces new dangers from unexpected quarters.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2017
+        },
+        {
+          "season": 5,
+          "overview": "A notorious gang in 1919 Birmingham, England, is led by the fierce Tommy Shelby, a crime boss set on moving up in the world no matter the cost.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS5.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2019
+        },
+        {
+          "season": 6,
+          "overview": "Tommy sets off to North America, where the end of Prohibition brings new opportunities. But he faces new danger from an old adversary who is finally making his move.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS6.png",
+          "ContentAdvisor": "Violence, foul language, sexual content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Colm McCarthy, Tim Mielants, Anthony Byrne, David Caffrey, Otto Bathurst",
+          "Producers": "Steven Knight, Greg Brenman, David Mason, Jamie Glazebrook, Frith Tiplady",
+          "Staring": "Cillian Murphy, Paul Anderson, Helen McCrory",
+          "release": 2021
+        }
+      ]
+    },
+    {
+        "_id": 558,
+        "original_title": "Stranger Things",
+        "genres": ["Sci-Fi", "Horror", "Drama"],
+        "contentType": "Web Series",
+        "trailer": "/Videos/Webseries/strangerthingsvideo.mp4",
+        "video": "/Videos/Webseries/strangerthingsvideo.mp4",
+        "poster_path": "/Poster_path/TrendingWebSeries_poster/strangerthingsposter.png",
+        "seasons": [
+          {
+            "season": 1,
+            "overview": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+            "backdrop_path": "/Backdrop_images/TrendingWebS_back/strangerthingsS1.png",
+            "ContentAdvisor": "Violence, frightening scenes",
+            "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+            "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+            "director": "The Duffer Brothers",
+            "Producers": "Shawn Levy, Dan Cohen, The Duffer Brothers, Iain Paterson, Rand Geiger, Justin Doble",
+            "Staring": "Winona Ryder, David Harbour, Finn Wolfhard",
+            "release": 2016
+          },
+          {
+            "season": 2,
+            "overview": "As friends and family attempt to pick up the pieces following the devastating battle against the monstrous demogorgon, a new threat begins to emerge in the town of Hawkins.",
+            "backdrop_path": "/Backdrop_images/TrendingWebS_back/strangerthingsS2.png",
+            "ContentAdvisor": "Violence, frightening scenes",
+            "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+            "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+            "director": "The Duffer Brothers",
+            "Producers": "Shawn Levy, Dan Cohen, The Duffer Brothers, Iain Paterson, Rand Geiger, Justin Doble",
+            "Staring": "Winona Ryder, David Harbour, Finn Wolfhard",
+            "release": 2017
+          }
+        ]
+      },
+      {
+        "_id": 559,
+        "original_title": "Ozark",
+        "genres": ["Crime", "Drama", "Thriller"],
+        "contentType": "Web Series",
+        "trailer": "/Videos/Webseries/ozarkvideo.mp4",
+        "video": "/Videos/Webseries/ozarkvideo.mp4",
+        "poster_path": "/Poster_path/TrendingWebSeries_poster/ozarkposter.png",
+        "seasons": [
+          {
+            "season": 1,
+            "overview": "A financial planner, his wife, and their family's life are upended after a money-laundering scheme goes wrong, forcing them to move to the Ozarks to repay a debt to a Mexican drug lord.",
+            "backdrop_path": "/Backdrop_images/TrendingWebS_back/ozarkS1.png",
+            "ContentAdvisor": "Violence, foul language, drug content",
+            "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+            "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+            "director": "Bill Dubuque, Mark Williams",
+            "Producers": "Bill Dubuque, Mark Williams, Jason Bateman, Chris Mundy",
+            "Staring": "Jason Bateman, Laura Linney, Sofia Hublitz",
+            "release": 2017
+          }
+        ]
+      },
+      {
+        "_id": 560,
+        "original_title": "Dark",
+        "genres": ["Crime", "Drama", "Mystery"],
+        "contentType": "Web Series",
+        "trailer": "/Videos/Webseries/darkvideo.mp4",
+        "video": "/Videos/Webseries/darkvideo.mp4",
+        "poster_path": "/Poster_path/TrendingWebSeries_poster/darkposter.png",
+        "seasons": [
+          {
+            "season": 1,
+            "overview": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+            "backdrop_path": "/Backdrop_images/TrendingWebS_back/darkS1.png",
+            "ContentAdvisor": "Violence, foul language, horror",
+            "AudioLanguage": "Deutsch, English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+            "Subtitles": "Deutsch [UT], English [CC], Español (Latinoamérica), Français, Italiano, Português",
+            "director": "Baran bo Odar, Jantje Friese",
+            "Producers": "Baran bo Odar, Jantje Friese, Quirin Berg, Max Wiedemann",
+            "Staring": "Louis Hofmann, Karoline Eichhorn, Lisa Vicari",
+            "release": 2017
+          }
+        ]
+      }
 
   ]
 }

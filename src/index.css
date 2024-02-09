@@ -9,7 +9,7 @@
   /* background-image: linear-gradient(to bottom right, rgb(31, 2, 46),#010619); */
   background-image:linear-gradient(to bottom right, rgb(8, 1, 16),#000412);
   /* background-image: linear-gradient(#030716, rgb(22, 2, 33), rgb(0, 0, 3)); */
-
+  overflow-x: hidden;
   /* font-synthesis: none; */
   /* text-rendering: optimizeLegibility; */
   /* -webkit-font-smoothing: antialiased; */

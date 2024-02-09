@@ -1,0 +1,27 @@
+[
+    
+    {
+      "_id": 536,
+      "original_title": "Breaking Bad: Better Call Saul",
+      "genres": ["Crime", "Drama"],
+      "contentType": "Web Series",
+      "trailer": "/Videos/Webseries/bettercallsaulvideo.mp4",
+      "video": "/Videos/Webseries/bettercallsaulshor.mp4",
+      "poster_path": "/Poster_path/TrendingWebSeries_poster/bettercallsaulposter.webp",
+      "seasons": [
+        {
+          "season": 1,
+          "overview": "The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/bettercallsaulS1.png",
+          "ContentAdvisor": "Violence, foul language, drug content",
+          "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
+          "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",
+          "director": "Vince Gilligan, Peter Gould, Michelle MacLaren, Thomas Schnauz",
+          "Producers": "Vince Gilligan, Peter Gould, Mark Johnson, Melissa Bernstein",
+          "Staring": "Bob Odenkirk, Rhea Seehorn, Jonathan Banks",
+          "release": 2015
+        }
+      ]
+    }
+    
+    ]

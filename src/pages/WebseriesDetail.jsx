@@ -1,6 +1,8 @@
 import { Link, useParams } from 'react-router-dom';
 import './Detail.css';
 import { useEffect, useState } from 'react';
+import DetailInfo from '../components/DetailInfo';
+import Relatedseries from '../components/Relatedseries';
 
 const WebseriesDetail = () => {
   const { movieId, title, Genres, type, treaser } = useParams();
@@ -11,8 +13,17 @@ const WebseriesDetail = () => {
   const [showSeason, setShowSeason] = useState('');
   const [showSeasonVisible, setShowSeasonVisible] = useState(false);
   const [selectVisible, setSelectVisible] = useState(false);
+  const [content,setcontent] = useState();
+  const [Director,setdirector] = useState();
+  const [Language,setlanguage] =useState();
+  const [subtitles,setsubtitles] = useState();
+  const [producers,setproducers] = useState();
+  const [star,setstar] = useState();
+  const [handledetail,sethandle] = useState(true);
+  const [handlerelated,setrelative] = useState(false);
+  const [suggestSeries,setsuggest] = useState();
 
-
+  const setrelated = [];
   const seriesId = Number(movieId);
 
   useEffect(() => {
@@ -31,8 +42,12 @@ const WebseriesDetail = () => {
               setShowSeasonVisible(false);
               setSelectVisible(true);
               setSelectedSeason(series.seasons[series.seasons.length - 1].season);
-              
-             
+              setcontent(series.seasons[0].ContentAdvisor)
+              setdirector(series.seasons[0].director);
+              setlanguage(series.seasons[0].AudioLanguage)
+              setsubtitles(series.seasons[0].Subtitles)
+              setproducers(series.seasons[0].Producers)
+              setstar(series.seasons[0].Staring)
               
             }
             else {
@@ -41,15 +56,26 @@ const WebseriesDetail = () => {
               setOverview(series.seasons[0].overview);
               setShowSeasonVisible(true);
               setSelectVisible(false);
+              setcontent(series.seasons[0].ContentAdvisor)
+              setdirector(series.seasons[0].director);
+              setlanguage(series.seasons[0].AudioLanguage)
+              setsubtitles(series.seasons[0].Subtitles)
+              setproducers(series.seasons[0].Producers)
+              setstar(series.seasons[0].Staring)
             }
+          }
+          else{
+            setrelated.push(res[1].movies[i])
           }
         }
       
       } catch (error) {
         console.error("Error fetching data:", error);
       }
+      setsuggest(setrelated.reverse());
+    // console.log(setrelated);
     }
-
+     
     fetchData();
 
 
@@ -71,6 +97,17 @@ const WebseriesDetail = () => {
       }
     }
   };
+
+  function showdetails(){
+    sethandle(true);
+    setrelative(false);
+  }
+ 
+  function showrelated(){
+    sethandle(false);
+    setrelative(true);
+  }
+
 
   return (
     <div className='Detailwrp'>
@@ -135,11 +172,32 @@ const WebseriesDetail = () => {
         </div>
         <div className='ws_info'>
           <div className='ws_info_innerwpr'>
-            <div className='ws_infoheader'></div>
-            <div className='ws_series_info'></div>
-            <div className='rel_series_wrp'></div>
+            <div className='ws_minnav' style={{position:"sticky",top:"58px",zIndex:"999"}}>
+              <div className='ws_navwrp'>
+                <div className='mainnav'>
+                  <button className='navingbtn' onClick={showdetails} >Details</button>
+                  <button className='navingbtn' onClick={showrelated}>Related</button>
+                </div>
+              </div>
+            </div>
+            <div className='ws_series_info'>
+            {handledetail && 
+              <div className='allinfor' style={{display:"block"}}>
+            <DetailInfo treaser={treaser} content={content}  Alang={Language} Stitle={subtitles} direc={Director} produce={producers} Stars={star}/>
+              </div>
+            }
+              
+            </div>
           </div>
         </div>
+        <div className='rel_series_wrp'>
+            {
+                handlerelated && 
+              <div className='rel_series' style={{display:"block",overflow:"hidden"}}>
+              <Relatedseries relativeseries={suggestSeries}/>
+              </div>
+              }
+            </div>
       </div>
     </div>
   );
