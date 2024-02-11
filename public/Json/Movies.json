@@ -11,7 +11,17 @@
           "backdrop_path":"/Backdrop_images/TrendingMovies/wakanda.webp",
           "poster_path":"/Poster_path/TrendingMovies/91PqA8ha37L._AC_UY327_FMwebp_QL65_.webp",
           "video":"",
-          "release":2022
+          "release":2022,
+          "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
         },
 
         {
@@ -23,7 +33,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/blackwidow.webp",
         "poster_path":"/Poster_path/TrendingMovies/blackwidow.webp",
         "video":"",
-        "release":2021
+        "release":2021,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
 
       {
@@ -35,7 +55,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/indiana_jones2.webp",
         "poster_path":"/Poster_path/TrendingMovies/indiana_jones.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":504,
@@ -46,7 +76,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/thecreator.webp",
         "poster_path":"/Poster_path/TrendingMovies/thecreator.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":505,
@@ -57,7 +97,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/bookyman.webp",
         "poster_path":"/Poster_path/TrendingMovies/theboogymen.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":506,
@@ -68,7 +118,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/graudin2.webp",
         "poster_path":"/Poster_path/TrendingMovies/gruadian.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":507,
@@ -79,7 +139,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/nighthouse2.webp",
         "poster_path":"/Poster_path/TrendingMovies/nighthouse.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":508,
@@ -90,7 +160,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/enternals2.webp",
         "poster_path":"/Poster_path/TrendingMovies/eternals.webp",
         "video":"",
-        "release":2022
+        "release":2022,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":509,
@@ -101,7 +181,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/quantumania2.webp",
         "poster_path":"/Poster_path/TrendingMovies/quantumania.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":510,
@@ -112,7 +202,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/captainmarvel2.webp",
         "poster_path":"/Poster_path/TrendingMovies/captionmarvel.webp",
         "video":"",
-        "release":2021
+        "release":2021,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":511,
@@ -123,7 +223,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/dealpl2.webp",
         "poster_path":"/Poster_path/TrendingMovies/deadpool2.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":512,
@@ -134,7 +244,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/precyjackback.webp",
         "poster_path":"/Poster_path/TrendingMovies/precyjakson.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":513,
@@ -145,7 +265,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/misspregin2.webp",
         "poster_path":"/Poster_path/TrendingMovies/mispregins.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":514,
@@ -156,7 +286,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/mountain2.webp",
         "poster_path":"/Poster_path/TrendingMovies/mountain.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":515,
@@ -167,7 +307,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/thefaultbackdrop.webp",
         "poster_path":"/Poster_path/TrendingMovies/thefault.webp",
         "video":"",
-        "release":2021
+        "release":2021,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":516,
@@ -178,7 +328,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/lovesimonbackdrop.webp",
         "poster_path":"/Poster_path/TrendingMovies/lovesiman.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":517,
@@ -189,7 +349,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/theatorcapback.webp",
         "poster_path":"/Poster_path/TrendingMovies/theratorcamp.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":518,
@@ -200,7 +370,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/everafterback.webp",
         "poster_path":"/Poster_path/TrendingMovies/everafter.webp",
         "video":"",
-        "release":2020
+        "release":2020,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":519,
@@ -211,7 +391,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/turnerhooch2.webp",
         "poster_path":"/Poster_path/TrendingMovies/turnerhoock.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":520,
@@ -222,7 +412,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/dairywimkback.webp",
         "poster_path":"/Poster_path/TrendingMovies/dairywimky.webp",
         "video":"",
-        "release":2016
+        "release":2016,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":521,
@@ -233,7 +433,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/mazrunner_back.webp",
         "poster_path":"/Poster_path/TrendingMovies/mazrunner.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":522,
@@ -244,7 +454,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/Matriacrhback.webp",
         "poster_path":"/Poster_path/TrendingMovies/matriarch.webp",
         "video":"",
-        "release":2023
+        "release":2023,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":523,
@@ -255,7 +475,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/empirelightback.webp",
         "poster_path":"/Poster_path/TrendingMovies/empireoflight.webp",
         "video":"",
-        "release":2018
+        "release":2018,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":524,
@@ -266,7 +496,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/nigthmareback.webp",
         "poster_path":"/Poster_path/TrendingMovies/nigthmare.webp",
         "video":"",
-        "release":2021
+        "release":2021,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       },
       {
         "_id":525,
@@ -277,7 +517,17 @@
         "backdrop_path":"/Backdrop_images/TrendingMovies/billborad_back.webp",
         "poster_path":"/Poster_path/TrendingMovies/threebill.webp",
         "video":"",
-        "release":2017
+        "release":2017,
+        "seasons":[
+            {
+            "ContentAdvisor":"Violence, substance use, alcohol use, smoking, foul language, sexual content",
+            "AudioLanguage":"English Dialogue Boost: Medium, English Dialogue Boost: High, English [Audio Description], English, ಕನ್ನಡ, Čeština, Italiano, Indonesia, Tiếng Việt, Bahasa Melayu, עברית, Português (Portugal), Filipino, தமிழ், العربية, हिन्दी, Português (Brasil), Español (España), తెలుగు, Deutsch, Nederlands, Español (Latinoamérica), Français (France), Français (Canada), Ελληνικά, Polski, Magyar, മലയാളം, Română, ไทย, Türkçe, 日本語",
+            "Subtitles":"English [CC], العربية, Català, Čeština, Dansk, Deutsch, Ελληνικά, Español (Latinoamérica), Español (España), Euskara, Suomi, Filipino, Français (Canada), Français (France), Galego, עברית, हिन्दी, Magyar, Indonesia, Italiano, 日本語, ಕನ್ನಡ, 한국어, മലയാളം, Bahasa Melayu, Norsk Bokmål, Nederlands, Polski, Português (Brasil), Português (Portugal), Română, Русский, Svenska, தமிழ், తెలుగు, ไทย, Türkçe, Українська, Tiếng Việt, 中文（简体）, 中文（繁體）",
+            "director":"Hiro Murai, Karena Evans, Christian Sprenger, Amy Seimetz, Donald Glover",
+            "Producers":"Donald Glover, Francesca Sloane, Stephen Glover, Hiro Murai, Nate Matteson, Anthony Katagas, Arnon Milchan, Yariv Milchan, Michael Schaefer, Carla Ching, Kaitlin Waldron, Greg O'bryant, Yvonne Yi, Lyn Pinezich",
+            "Staring":"Donald Glover, Maya Erskine, Wagner Moura"
+          }
+          ]
       }
       
   
@@ -883,7 +1133,7 @@
     {
       "_id":547,
       "original_title":"Red White&Royals Blue",
-      "genres":[],
+      "genres":["Drama","Comedy","Fantasy"],
       "contentType":"Web Series",
       "trailer":"/Videos/Webseries/Redwhite.mp4",
       "video":"/Videos/Webseries/Redwhite.mp4",
@@ -1160,7 +1410,7 @@
         {
           "season": 4,
           "overview": "In the wake of the Wall Street Crash, Tommy faces new dangers from unexpected quarters.",
-          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS.png",
+          "backdrop_path": "/Backdrop_images/TrendingWebS_back/peakyblindersS4.png",
           "ContentAdvisor": "Violence, foul language, sexual content",
           "AudioLanguage": "English Dialogue Boost: High, English, English [Audio Description], English Dialogue Boost: Medium, English Dialogue Boost: Low",
           "Subtitles": "English [CC], Español (Latinoamérica), Français, Português",

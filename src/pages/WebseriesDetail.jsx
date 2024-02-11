@@ -3,6 +3,7 @@ import './Detail.css';
 import { useEffect, useState } from 'react';
 import DetailInfo from '../components/DetailInfo';
 import Relatedseries from '../components/Relatedseries';
+import Treaser from '../components/Treaser';
 
 const WebseriesDetail = () => {
   const { movieId, title, Genres, type, treaser } = useParams();
@@ -22,12 +23,15 @@ const WebseriesDetail = () => {
   const [handledetail,sethandle] = useState(true);
   const [handlerelated,setrelative] = useState(false);
   const [suggestSeries,setsuggest] = useState();
+  const [treaserdisplay,settreasedis] = useState(false);
+
 
   const setrelated = [];
   const seriesId = Number(movieId);
 
   useEffect(() => {
     async function fetchData() {
+      window.scrollTo(0,0)
       try {
         const req = await fetch("/Json/Movies.json");
         const res = await req.json();
@@ -48,7 +52,6 @@ const WebseriesDetail = () => {
               setsubtitles(series.seasons[0].Subtitles)
               setproducers(series.seasons[0].Producers)
               setstar(series.seasons[0].Staring)
-              
             }
             else {
               setBackdropPath(series.seasons[0].backdrop_path);
@@ -101,13 +104,20 @@ const WebseriesDetail = () => {
   function showdetails(){
     sethandle(true);
     setrelative(false);
+    settreasedis(false)
   }
  
   function showrelated(){
     sethandle(false);
     setrelative(true);
+    settreasedis(false)
   }
 
+  function showtreaser(){
+    settreasedis(true)
+    sethandle(false);
+    setrelative(false);
+  }
 
   return (
     <div className='Detailwrp'>
@@ -176,6 +186,7 @@ const WebseriesDetail = () => {
               <div className='ws_navwrp'>
                 <div className='mainnav'>
                   <button className='navingbtn' onClick={showdetails} >Details</button>
+                  <button className='navingbtn' onClick={showtreaser}>Trailer</button>
                   <button className='navingbtn' onClick={showrelated}>Related</button>
                 </div>
               </div>
@@ -183,10 +194,16 @@ const WebseriesDetail = () => {
             <div className='ws_series_info'>
             {handledetail && 
               <div className='allinfor' style={{display:"block"}}>
-            <DetailInfo treaser={treaser} content={content}  Alang={Language} Stitle={subtitles} direc={Director} produce={producers} Stars={star}/>
+            <DetailInfo  content={content}  Alang={Language} Stitle={subtitles} direc={Director} produce={producers} Stars={star} />
               </div>
             }
-              
+           
+           {treaserdisplay && 
+           <div className='allinfor' style={{display:"block",padding:"40px 0"}}>
+             <Treaser treaser={treaser} backdropPathposter={backdropPath} />
+           </div>
+           }   
+
             </div>
           </div>
         </div>

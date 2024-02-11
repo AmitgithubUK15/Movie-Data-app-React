@@ -1,27 +1,12 @@
-    import PropsType from 'prop-types';
-import { useEffect } from 'react';
+ import PropsType from 'prop-types';
+
 
 
     export default function DetailInfo({ treaser, content, Alang, Stitle, direc, produce, Stars }) {
 
-        useEffect(() => {
-            window.scrollTo(0, 0); // Scroll to the top of the page when component mounts
-          }, []);
 
         return (
             <div>
-                <div className="videosection">
-                    <div style={{ textAlign: "left" }}>
-                        <h1>
-                            <span>Treaser</span>
-                        </h1>
-                    </div>
-                    <div className="vidoewrp"  style={{ width: "50%", height: "340px", overflow: "hidden", borderRadius: "15px" }}>
-                        <video controls style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center" }}>
-                            <source src={`${treaser}`} type="video/mp4"></source>
-                        </video>
-                    </div>
-                </div>
                 <div className="infodata" style={{ display: "flex", textAlign: "left", width: "100%"  }}>
                     <div style={{width:"70%"}}>
                         <div style={{ width: "100%", textAlign: "left" }}>
