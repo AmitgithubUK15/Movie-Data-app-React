@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 
 export default function Relatedseries({relativeseries}) {
     // console.log(relativeseries);
-    window.scrollTo(0,0)
+  
 
   return (
     <>

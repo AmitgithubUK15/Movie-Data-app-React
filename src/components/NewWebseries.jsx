@@ -1,4 +1,4 @@
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import PropsType from 'prop-types';
 import './Style.css';
 import { MdKeyboardArrowRight, MdKeyboardArrowLeft } from "react-icons/md";
@@ -102,7 +102,7 @@ function NewWebseries({ WebseriesData }) {
                   <div key={index} className={`list_item ${slideIndex === index ? "widthincrea" : ""}`} onMouseEnter={() => handleMouseEnter(index)} onMouseLeave={() => handleMouseLeave(index)}>
                     <img src={val.poster_path} alt="" className={`web_s_poster ${slideIndex === index ? "setimgwidth" : ""}`} />
                   
-                    <video ref={ref => videoRefs.current[index] = ref} className={`ws_backvideo${slideIndex === index ? "showvideo" : ""}`} style={{ width: "701px", height: "404px", objectFit: "cover",objectPosition:"center", aspectRatio: "16/9" }}>
+                    <video ref={ref => videoRefs.current[index] = ref} className={`ws_backvideo${slideIndex === index ? "showvideo" : ""}`} style={{ width: "739px", height: "404px", objectFit: "cover",objectPosition:"center", aspectRatio: "16/9" }}>
                       <source src={val.video} type="video/mp4"></source>
                     </video>
 

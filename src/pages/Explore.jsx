@@ -24,23 +24,9 @@ export default function Explore() {
       }
       else{
         const response = await req.json();
-  
-  
-        // for(let i=0; i<response.length; i++){
-        //   console.log(response[i].title)
-        //   if(response[i].title === exp_heading){
-        //     setdata(response[i].movies)
-        //     break;
-        //   }
-        //   else{
-        //     setdata(response[1].movies)
-        //   }
-        // }
- 
+
         setdata(response[0].movies)
-       
-        // setnewmovie(response[1].movies)
-        // console.log(response);
+      
       }
      }
      catch(err){
