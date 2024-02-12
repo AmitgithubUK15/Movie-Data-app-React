@@ -1,3 +1,121 @@
-.link{
-    display: none;
+.outerwpr{
+    width: 100%;
+
+    display: flex;
+    justify-content:center;
+    
+}
+
+.out_2wpr{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.showinput{
+    width: 1533px;
+
+}
+
+.searchresult{
+    width: 1532px;
+    display: flex;
+align-items: center;
+flex-direction: column;
+}
+
+.titles{
+    width: 56%;
+    text-align: left;
+    padding: 0 10px;
+}
+
+.item_link{
+display: inline-block;
+text-decoration: none;
+color: white;
+}
+
+.datalist{
+  width: 57%;
+}
+
+.movie-list-item {
+  width: 100%;
+    /* display: flex; */
+    /* margin-bottom: 20px; */
+    overflow: hidden;
+    position: relative;
+  
+  }
+  
+  .list_inner_wrp{
+    width: 100%;
+    padding: 22px 0;
+  }
+
+  .list_inner_wrp2{
+    width: 97%;
+    border-radius: 20px;
+    margin: 0 auto;
+    display: flex;
+    background-image: linear-gradient(to bottom right, rgb(32, 24, 41),#1e1e20);
+  }
+  .leftsidepull{
+    width: 32%;
+    padding: 18px 30px;
+    display: flex;
+align-items: center
+  }
+
+  .rightsidepull{
+    width: 70%;
+   padding: 16px 0;
+  }
+
+  .item_poster_wrp{
+    width: 246px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 20px;
+  }
+ 
+  .poster_image{
+    width: 246px;
+    height: 300px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .zoomingeffect{
+    transform: scale(1.2);
+    
+  }
+
+  .item_name{
+    text-align: left;
+  }
+
+  .overview_para{
+    text-align: left;
+  }
+  .item_type{
+   text-align: left;
+   font-size: 20px;
+  }
+
+  .item_button{
+    text-align: left;
+    padding: 10px 0;
+  }
+.list_realBtn{
+  padding: 14px 34px;
+font-size: 17px;
+outline: none;
+border: none;
+border-radius: 15px;
+cursor: pointer;
 }
