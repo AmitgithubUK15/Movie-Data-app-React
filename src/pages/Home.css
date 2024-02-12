@@ -40,6 +40,12 @@ color: white;
 
 .datalist{
   width: 57%;
+  display: none;
+}
+
+.datalist2{
+  width: 57%;
+  display: none;
 }
 
 .movie-list-item {
@@ -48,7 +54,7 @@ color: white;
     /* margin-bottom: 20px; */
     overflow: hidden;
     position: relative;
-  
+    transition: all 0.5s ease-in;
   }
   
   .list_inner_wrp{
@@ -62,6 +68,12 @@ color: white;
     margin: 0 auto;
     display: flex;
     background-image: linear-gradient(to bottom right, rgb(32, 24, 41),#1e1e20);
+   
+  }
+
+  .list_innerHover{
+    transform: scale(1.1);
+    position: relative;
   }
   .leftsidepull{
     width: 32%;
