@@ -84,7 +84,7 @@ function Result() {
                 <div className="out_2wpr">
                     <div className="showinput">
                         <div style={{ textAlign: "left", width: "55%", margin: "0 auto" }}>
-                            <h1>
+                            <h1 style={{fontWeight:"500"}}>
                                 <span>Search {`"${searchdata}"`}</span>
                             </h1>
                         </div>
@@ -92,7 +92,7 @@ function Result() {
                    
                     <div className="searchresult">
                         <div className="titles">
-                            <h1 style={{margin:"7px 3px"}}><span>{matchflag === true ? "Title": "Not Found Suggest some result"}</span></h1>
+                            <h1 style={{margin:"7px 3px", fontWeight:"600"}}><span style={{color:"gray"}}>{matchflag === true ? "Title": "Not Found Suggest some result"}</span></h1>
                         </div>
 
                         {matchflag && 
